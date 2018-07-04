@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.0 通知栏首页" version="4.8.5" tag="通知栏">
+
+
+    <resource description="设置小图标" x="72" y="575" width="66" height="78" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\status_bar_flow_5.png" description="流量小图标(共计12个)" />
+        <path src="res\drawable-land-xxhdpi\icon_garbage_notification.png" description="内存可用标志" />
+        <path src="res\drawable-land-xxhdpi\icon_antispam_notification_normal.png" description="拦截小图标" />
+        <path src="res\drawable-land-xxhdpi\icon_power_normal.png" description="电量显示" />
+    </resource>
+    
+  
+</screenshot>

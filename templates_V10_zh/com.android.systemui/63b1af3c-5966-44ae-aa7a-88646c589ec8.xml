@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.0 通知栏首页" version="4.8.5" tag="通知栏">
+
+    <resource description="通知栏大背景" x="0" y="0" width="1080" height="2158" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\notification_panel_window_bg.9.png" description="通知栏大背景" />
+    </resource>
+
+    <resource description="通知背景" x="15" y="849" width="1053" height="957" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\notification_panel_bg.9.png" description="通知背景" />
+    </resource>
+
+    <resource description="设置小图标" x="950" y="150" width="117" height="96" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\notch_settings_n.png" description="设置小图标" />
+    </resource>
+    <resource description="开关圆角背景" x="14" y="311" width="1052" height="362" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\panel_round_corner_bg.9.png" description="开关圆角背景" />
+    </resource><!-- 
+    <resource description="流量小图标" x="69" y="579" width="75" height="68" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\notification_list_bg.9.png" description="流量小图标" />
+    </resource> -->
+    <resource description="亮度滑动暗色背景" x="14" y="673" width="1052" height="142" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\brightness_toggle_progress.9.png" description="亮度滑动暗色下层背景" />
+    </resource>
+
+    <resource description="最低亮度小图标" x="41" y="702" width="93" height="83" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\ic_brightness_low.png" description="最低亮度小图标" />
+    </resource>
+    <resource description="最高亮度小图标" x="945" y="702" width="93" height="83" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\ic_brightness_high.png" description="最高亮度小图标" />
+    </resource>
+    <resource description="通知消除按钮" x="435" y="1893" width="208" height="208" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\notifications_clear_all.png" description="通知消除按钮×" />
+        <path src="res\drawable-land-xxhdpi\notifications_clear_all_bg.png" description="通知消除按钮圆形背景" />
+    </resource>
+
+
+    <resource description="通知栏消息背景" x="50" y="910" width="990" height="187" uuid="15d8742c-8cc3-4b40-ac72-ada01ed902fc">
+        <path src="res\drawable-land-xxhdpi\notification_item_bg_n.9.png" description="单条通知背景常态" />
+        <path src="res\drawable-land-xxhdpi\notification_item_bg_p.9.png" description="单条通知背景二态" />
+        <path src="res\drawable-land-xxhdpi\notification_item_expanded_bg_n.9.png" description="通知单条展开后背景常态" />
+        <path src="res\drawable-land-xxhdpi\notification_item_expanded_bg_p.9.png" description="通知单条展开后背景二态" />
+        <path src="res\drawable-land-xxhdpi\notification_item_expanded_children_bg_n.9.png" description="通知单条二级展开后背景二态" />
+        <path src="res\drawable-land-xxhdpi\notification_item_expanded_children_bg_p.9.png" description="通知单条二级展开后背景二态" />
+    </resource>
+  
+</screenshot>

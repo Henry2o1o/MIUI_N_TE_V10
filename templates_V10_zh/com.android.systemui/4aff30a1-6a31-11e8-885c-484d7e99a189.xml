@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.5 开关面板" version="4.8.5" annotation="注意：开关图标从4.11.15开发版开始移到了全局framework-miui-res" tag="通知栏">
+    <resource description="notification_list_bg.9.png" x="12" y="300" width="1056" height="1730" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\panel_round_corner_bg.9.png" description="开关背景（与通知列表背景一致）" />
+    </resource>
+
+    <resource description="tab_notifications_bg_p" x="30" y="1858" width="1024" height="150" uuid="39ff127c-b1ca-473a-833d-25149e681841">
+        <path src="res\drawable-xhdpi\miui_qs_left_button_bg_n.9.png" description="通知栏开关按钮" />
+        <path src="res\drawable-xhdpi\miui_qs_left_button_bg_p.9.png" description="通知栏开关按钮" />
+        <path src="res\drawable-xhdpi\miui_qs_right_button_bg_n.9.png" description="通知栏开关按钮" />
+        <path src="res\drawable-xhdpi\miui_qs_right_button_bg_p.9.png" description="通知栏开关按钮" />
+    </resource>
+
+
+
+</screenshot>

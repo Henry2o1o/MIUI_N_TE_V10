@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 编辑模式" version="4.8.26" annotation="" tag="桌面">
+    <resource description="删除项目" x="501" y="43" width="81" height="81" uuid="d15601ac-7ef1-45fe-9167-91deabadb049">
+        <path src="res\drawable-xxhdpi\trash.png" description="卸载" />
+    </resource>
+
+    <resource description="编辑widget" x="882" y="43" width="150" height="82" uuid="8c303f74-571b-42bd-b4c2-ebf571db8864">
+        <path src="res\drawable-xxhdpi\edit_group_d_dark.png" description="编辑widget" />
+        <path src="res\drawable-xxhdpi\edit_group_n_dark.png" description="编辑widget" />
+        <path src="res\drawable-xxhdpi\edit_group_p_dark.png" description="编辑widget" />
+        <path src="res\drawable-xxhdpi\edit_group_d_light.png" description="编辑widget" />
+        <path src="res\drawable-xxhdpi\edit_group_n_light.png" description="编辑widget" />
+        <path src="res\drawable-xxhdpi\edit_group_p_light.png" description="编辑widget" />
+    </resource>
+
+    <resource description="文件夹重命名" x="218" y="513" width="664" height="116" uuid="26e03095-a61c-40ab-98ff-78c36b63d9a6">
+        <path src="res\drawable-xxhdpi\folder_setting_confirm_n.9.png" description="文件夹重命名确认" />
+        <path src="res\drawable-xxhdpi\folder_setting_confirm_p.9.png" description="文件夹重命名确认按下态" />
+        <path src="res\drawable-xxhdpi\folder_setting_rename_bg.9.png" description="文件夹重命名输入框" />
+    </resource>
+
+    <resource description="folder_scrollbar_v.9" x="963" y="916" width="18" height="423" uuid="2d62e61e-d3b2-4e14-a979-c44cdfc5c6a7">
+        <path src="res\drawable-xxhdpi\folder_scrollbar_v.9.png" description="文件夹导航条" />
+    </resource>
+
+    <resource description="一键清理" x="822" y="1579" width="140" height="140" uuid="38a60be6-7a2a-40fb-a0d9-d70a5788ca80">
+        <path src="res\drawable-xxhdpi\gadget_clear_button_icon.png" description="一键清理缩略图" />
+        <path src="res\drawable-xxhdpi\gadget_clear_button_bg.png" description="一键清理背景" />
+        <path src="res\drawable-xxhdpi\gadget_clear_button_circle.png" description="一键清理内存占用" />
+        <path src="res\drawable-xxhdpi\gadget_clear_button_fore_normal.png" description="一键清理" />
+    </resource>
+       <!-- 需要补充素材 -->
+    <resource description="选中角标" x="682" y="1551" width="68" height="68" uuid="bb73ba8f-6964-11e8-9ef7-484d7e99a189">
+        <path src="res\drawable-xxhdpi\edit_mode_checkbox_off.png" description="未选状态" />
+        <path src="res\drawable-xxhdpi\edit_mode_checkbox_on.png" description="已选状态" />
+    </resource>
+
+    <resource description="桌面设置项" x="71" y="1917" width="961" height="242" uuid="f107435c-a592-44c6-8275-ec122b9163a9">
+        <path src="res\drawable-xxhdpi\thumbnail_entry_bg.png" description="桌面设置项背景" />
+        <path src="res\drawable-xxhdpi\thumbnail_entry_bg_dark.png" description="桌面设置项背景二态" />
+        <path src="res\drawable-xxhdpi\thumbnail_entry_multi_select.png" description="桌面整理" />
+        <path src="res\drawable-xxhdpi\thumbnail_entry_add_widget.png" description="添加小工具" />
+        <path src="res\drawable-xxhdpi\thumbnail_entry_set_wallpaper.png" description="修改壁纸" />
+        <path src="res\drawable-xxhdpi\thumbnail_entry_transition_effect.png" description="屏幕切换效果" />
+    </resource>
+
+</screenshot>

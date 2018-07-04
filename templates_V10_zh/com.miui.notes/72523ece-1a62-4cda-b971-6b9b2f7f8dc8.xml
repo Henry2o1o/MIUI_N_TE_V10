@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 更多弹窗" version="4.8.5" annotation="" tag="便签界面">
+    <resource description="ic_color_picker_blue" x="297" y="228" width="136" height="136" uuid="72523ece-1a62-4cda-b971-6b9b2f7f8dc8">
+        <path src="res\drawable-xhdpi\ic_color_picker_blue.png" description="蓝色点" />
+        <path src="res\drawable-xxhdpi\ic_color_picker_blue.png" description="蓝色点" />
+
+        <path src="res\drawable-xhdpi\ic_color_picker_green.png" description="绿色点" />
+        <path src="res\drawable-xxhdpi\ic_color_picker_green.png" description="绿色点" />
+
+        <path src="res\drawable-xhdpi\ic_color_picker_red.png" description="红色点" />
+        <path src="res\drawable-xxhdpi\ic_color_picker_red.png" description="红色点" />
+
+        <path src="res\drawable-xhdpi\ic_color_picker_white.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_color_picker_white.png" description="" />
+
+        <path src="res\drawable-xhdpi\ic_color_picker_yellow.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_color_picker_yellow.png" description="" />
+
+    </resource>
+    <resource description="ic_header_cover_p" x="124" y="228" width="136" height="136" uuid="72523ece-1a62-4cda-b971-6b9b2f7f8dc8">
+
+        <path src="res\drawable-xhdpi\ic_header_cover_p.png" description="选中颜色" />
+        <path src="res\drawable-xxhdpi\ic_header_cover_p.png" description="选中颜色" />
+    </resource>
+</screenshot>

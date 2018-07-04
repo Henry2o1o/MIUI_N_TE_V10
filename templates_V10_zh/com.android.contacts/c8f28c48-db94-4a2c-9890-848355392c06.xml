@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3 陌生联系人详情" version="4.8.5" annotation="" tag="联系人">
+    <resource description="展开所有通话记录" x="0" y="1590" width="1080" height="164" uuid="0f5033a9-4ec5-4bff-be55-951678db90b2">
+        <path src="res\drawable-xxhdpi\contact_detail_unfold_item_bg_n.9.png" description="展开所有通话记录背景常态" />
+        <path src="res\drawable-xxhdpi\contact_detail_unfold_item_bg_p.9.png" description="展开所有通话记录背景二态" />
+    </resource>
+    <resource description="加入黑名单" x="0" y="1777" width="1080" height="137" uuid="3cb3af6f-5f41-469f-b1fa-7b6998f3d375">
+        <path src="res\drawable-xxhdpi\editor_button_bg_n.9.png" description="加入黑名单背景常态" />
+        <path src="res\drawable-xxhdpi\editor_button_bg_p.9.png" description="和、加入黑名单背景二态" />
+    </resource>
+    <resource description="删除通话记录" x="0" y="1943" width="1080" height="144" uuid="d76a62ad-d7a1-481e-a082-4f42274cbbf2">
+        <path src="res\drawable-xxhdpi\editor_button_bg_n.9.png" description="删除通话记录背景常态" />
+        <path src="res\drawable-xxhdpi\editor_button_bg_p.9.png" description="删除通话记录背景二态" />
+    </resource>
+</screenshot>

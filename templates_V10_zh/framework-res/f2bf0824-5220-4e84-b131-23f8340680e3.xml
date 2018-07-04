@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 任务下载页" version="4.8.5" tag="通知栏">‘
+
+
+    <resource description="按钮" x="777" y="1024" width="241" height="120" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\notification_miui_action_bg.9.png" description="通知栏按钮" />
+    </resource>
+
+    
+    <resource description="按钮" x="896" y="1886" width="130" height="90" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\notification_group_overflow_number_bg.9.png" description="通知栏按钮" />
+    </resource>
+</screenshot>

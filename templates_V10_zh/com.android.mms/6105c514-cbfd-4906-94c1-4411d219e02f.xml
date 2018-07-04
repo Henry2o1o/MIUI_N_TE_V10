@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 短信表情" version="2.9.20" annotation="附件表情" tag="短信">
+
+
+    <resource description="title_bar_tall_bg.9" x="0" y="58" width="1076" height="140" uuid="55ad49e4-6115-4d1c-9436-8e66710cf577">
+        <path src="res\drawable-xxhdpi\title_bar_bg_row.9.png" description="联系人标题背景" />
+    </resource>
+
+    <resource description="add_recipients_normal" x="940" y="64" width="130" height="122" uuid="4c2b1b04-fdd5-4fd7-a628-f347a70eefa0">
+        <path src="res\drawable-xxhdpi\add_recipients_normal.png" description="添加联系人_常态" />
+        <path src="res\drawable-xxhdpi\add_recipients_pressed.png" description="添加联系人_二态" />
+    </resource>
+
+    <resource description="recipient_suggestion_bg.9.png" x="0" y="198" width="1080" height="370" uuid="6105c514-cbfd-4906-94c1-4411d219e02f">
+        <path src="res\drawable-xhdpi\search_bg.9.png" description="短信搜索背景" />
+        <path src="res\drawable-xxhdpi\search_bg.9.png" description="短信搜索背景" />
+        <path src="res\drawable-xhdpi\recipient_bg.9.png" description="联系人联想列表背景" />
+        <path src="res\drawable-xxhdpi\recipient_bg.9.png" description="联系人联想列表背景" />
+        <path src="res\drawable-xhdpi\recipient_suggestion_bg.9.png" description="联系人列表背景" />
+        <path src="res\drawable-xxhdpi\recipient_suggestion_bg.9.png" description="联系人列表背景" />
+    </resource>
+
+    <resource description="smiley_item_bg_p.9" x="20" y="1370" width="180" height="180" uuid="05b1fc63-4073-4048-ac85-61359858cc85">
+        <path src="res\drawable-xxhdpi\smiley_item_bg_p.9.png" description="大表情按下二态" />
+    </resource>
+
+    <resource description="dash_h" x="0" y="1544" width="1080" height="34" uuid="5f11604c-6d74-4549-93d3-aa951ccfd666">
+        <path src="res\drawable-xxhdpi\dash_h.png" description="横着虚线" />
+    </resource>
+
+    <resource description="dash_v" x="419" y="1356" width="24" height="610" uuid="f5e5c02c-1090-4fde-b7e1-f50a9d7397ea">
+        <path src="res\drawable-xxhdpi\dash_v.png" description="竖着虚线" />
+    </resource>
+
+    <resource description="smiley_item_bg_p.9" x="0" y="2032" width="166" height="125" uuid="36d08f24-fa8d-43bf-a0e0-bddfadcd27d1">
+        <path src="res\drawable-xxhdpi\smiley_item_bg_p.9.png" description="小图标 tab 二态" />
+    </resource>
+
+    <resource description="smiley_tab_bg.9" x="0" y="2032" width="1080" height="125" uuid="fba47f3e-55a0-40c9-bea1-91d0f71b3245">
+        <path src="res\drawable-xxhdpi\smiley_tab_bg.9.png" description="小图标 tab 背景" />
+    </resource>
+
+    <resource description="smiley_tab_text_normal" x="50" y="2070" width="60" height="60" uuid="bdf099c3-c8a2-466e-81eb-81939f865ab5">
+        <path src="res\drawable-xxhdpi\smiley_tab_image_smiley.png" description="表情" />
+        <path src="res\drawable-xxhdpi\smiley_tab_image_creature.png" description="表情" />
+        <path src="res\drawable-xxhdpi\smiley_tab_image_lifestyle.png" description="表情" />
+        <path src="res\drawable-xxhdpi\smiley_tab_text.png" description="表情" />
+        <path src="res\drawable-xxhdpi\smiley_tab_symbol.png" description="表情" />
+        <path src="res\drawable-xxhdpi\smiley_back.png" description="删除" />
+    </resource>
+    
+</screenshot>

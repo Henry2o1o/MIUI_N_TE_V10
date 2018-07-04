@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 桌面设置" version="4.8.26" annotation="" tag="桌面">
+    <resource description="" x="380" y="267" width="320" height="483" uuid="d5587a11-696c-11e8-8e0a-484d7e99a189">
+        <path src="res\drawable-xxhdpi\thumbnail_item_fg.png" description="设置主屏-桌面缩略图背景" />
+    </resource>
+    <resource description="屏幕切换效果" x="123" y="1820" width="107" height="74" uuid="e65a6b70-696c-11e8-91b3-484d7e99a189">
+        <path src="res\drawable-xxhdpi\transition_effect_classic.png" description="桌面切屏效果小图标" />
+        <path src="res\drawable-xxhdpi\transition_effect_classic_no_over_shoot.png" description="桌面切屏效果小图标" />
+        <path src="res\drawable-xxhdpi\transition_effect_cube.png" description="桌面切屏效果小图标" />
+        <path src="res\drawable-xxhdpi\transition_effect_fade_out.png" description="桌面切屏效果小图标" />
+        <path src="res\drawable-xxhdpi\transition_effect_fall_down.png" description="桌面切屏效果小图标" />
+        <path src="res\drawable-xxhdpi\transition_effect_left_page.png" description="桌面切屏效果小图标" />
+        <path src="res\drawable-xxhdpi\transition_effect_rotate.png" description="桌面切屏效果小图标" />
+        <path src="res\drawable-xxhdpi\transition_effect_stack.png" description="桌面切屏效果小图标" />
+    </resource>
+</screenshot>

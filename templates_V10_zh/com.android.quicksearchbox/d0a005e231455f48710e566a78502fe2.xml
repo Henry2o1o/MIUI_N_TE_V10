@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 全局搜索" version="4.8.25" annotation="" tag="负一屏和搜索">
+    <resource description="barcode" x="799" y="90" width="60" height="60" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\barcode.png" description="二维码扫描" />
+        <path src="res\drawable-xxhdpi\edit_text_search_clear_btn_on_dark.png" description="搜索框清空" />
+        <path src="res\drawable-xxhdpi\refresh.png" description="刷新" />
+    </resource> 
+
+    <resource description="expanded_header_bg.9" x="0" y="0" width="1080" height="195" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\expanded_header_bg.9.png" description="搜索框背景" />
+    </resource> 
+
+    <resource description="tips_bg_n.9" x="28" y="202" width="201" height="98" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\tips_bg_n.9.png" description="候选词背景常态" />
+        <path src="res\drawable-xxhdpi\tips_bg_p.9.png" description="候选词背景二态" />
+    </resource>
+
+    <resource description="icon_history" x="58" y="1157" width="86" height="93" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\icon_history.png" description="历史" />
+    </resource>
+    <resource description="icon_x" x="948" y="1162" width="81" height="83" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\icon_x.png" description="删除" />
+    </resource> 
+
+    <resource description="short_search_bg.9" x="21" y="63" width="869" height="110" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\short_search_bg.9.png" description="搜索框文字背景" />
+    </resource>
+    <resource description="short_search_bg.9" x="892" y="63" width="171" height="110" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\search_button_n.9.png" description="搜索框搜索按钮背景常态" />
+        <path src="res\drawable-xxhdpi\search_button_p.9.png" description="搜索框搜索按钮背景二态" />
+    </resource>
+
+    <resource description="message_n" x="757" y="817" width="281" height="133" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\message_n.png" description="" />
+        <path src="res\drawable-xxhdpi\message_p.png" description="" />
+        <path src="res\drawable-xxhdpi\phone_n.png" description="" />
+        <path src="res\drawable-xxhdpi\phone_p.png" description="" />
+        <path src="res\drawable-xxhdpi\play_n.png" description="" />
+        <path src="res\drawable-xxhdpi\play_p.png" description="" />
+    </resource> 
+    <resource description="icon_search" x="68" y="1336" width="52" height="58" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\icon_search.png" description="搜索网页" />
+    </resource>  
+
+    <resource description="app_locate" x="928" y="503" width="98" height="98" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\app_locate.png" description="定位应用位置" />
+    </resource>
+
+     <resource description="card_bottom_multi_list_n.9" x="0" y="335" width="1080" height="115" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\card_title_blank.9.png" description="卡片标题(常用应用标题背景)" />
+        <path src="res\drawable-xxhdpi\card_title_top_line.9.png" description="卡片标题第一个" />
+        <path src="res\drawable-xxhdpi\card_title.9.png" description="卡片标题" />
+
+
+    </resource>
+     <resource description="card_title_blank.9" x="0" y="453" width="1080" height="190" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+
+        <path src="res\drawable-xxhdpi\card_bottom_multi_list_n.9.png" description="卡片最后一个搜索结果常态(文字多导致折行的)" />
+        <path src="res\drawable-xxhdpi\card_bottom_multi_list_p.9.png" description="卡片最后一个搜索结果二态(文字多导致折行的)" />
+
+        <path src="res\drawable-xxhdpi\card_bottom_n.9.png" description="卡片最后一个搜索结果常态" />
+        <path src="res\drawable-xxhdpi\card_bottom_p.9.png" description="卡片最后一个搜索结果二态" />
+
+
+        <path src="res\drawable-xxhdpi\card_top_multi_list_n.9.png" description="卡片搜索折行结果背景常态" />
+        <path src="res\drawable-xxhdpi\card_top_multi_list_p.9.png" description="卡片搜索折行结果背景二态" />
+
+        <path src="res\drawable-xxhdpi\card_top_n.9.png" description="卡片搜索背景二态" />
+        <path src="res\drawable-xxhdpi\card_top_p.9.png" description="卡片搜索背景二态" />
+    </resource>
+
+    <resource description="baidu_bg.9" x="0" y="676" width="1080" height="115" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\baidu_bg.9.png" description="百度搜索的标题背景" />
+    </resource>
+
+</screenshot>

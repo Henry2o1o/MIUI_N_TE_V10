@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.0 桌面" version="4.8.27" annotation="" tag="桌面">
+
+    <resource description="icon_notification_bg.9" x="433" y="1215" width="95" height="95" uuid="7517d776-f27c-4a56-a303-f408059cbd7d">
+        <path src="res\drawable-xxhdpi\icon_notification_bg.9.png" description="图标角标背景" />
+    </resource>
+
+    <resource description="new_install_notification" x="843" y="1424" width="30" height="30" uuid="9d5c05a9-7c42-4ced-a35e-314c913246d7">
+        <path src="res\drawable-xxhdpi\new_install_notification.png" description="新装应用标记" />
+    </resource>
+
+    <resource description="workspace_seekpoint_normal_dark" x="495" y="1803" width="87" height="47" uuid="c91e55d6-dc84-48a5-9ed9-5ed997e07f62">
+        <path src="res\drawable-xxhdpi\workspace_seekpoint_normal.png" description="页面指示点" />
+        <path src="res\drawable-xxhdpi\workspace_seekpoint_highlight.png" description="页面指示点选中态" />
+        <path src="res\drawable-xxhdpi\workspace_seekpoint_normal_dark.png" description="页面指示点_浅壁纸模式" />
+        <path src="res\drawable-xxhdpi\workspace_seekpoint_highlight_dark.png" description="页面指示点选中态_浅壁纸模式" />
+    </resource>
+
+    <resource description="hotseat_background.9" x="0" y="1919" width="1080" height="240" uuid="1e40a969-6223-48f9-af4f-3cfd99d80c35">
+        <path src="res\drawable-xxhdpi\hotseat_background.9.png" description="常驻图标背景(切图需大于3x3)" />
+    </resource>
+    
+    
+</screenshot>

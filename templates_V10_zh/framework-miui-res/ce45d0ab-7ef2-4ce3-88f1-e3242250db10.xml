@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 全局列表" version="4.8.6" annotation="" tag="全局列表">
+    <resource description="action_bar_bg_light.9" x="0" y="0" width="1080" height="192" uuid="c4e52e29-4e24-436e-b2d0-610901dbcd78">
+        <path src="res\drawable-xxhdpi\action_bar_bg_light.9.png" description="全局tab栏背景" />
+    </resource>
+
+    <resource description="联系人更多" x="956" y="96" width="74" height="95" uuid="0f5033a9-4ec5-4bff-be55-951678db90b2">
+        <path src="res\drawable-xhdpi\action_mode_immersion_more_light_n.png" description="联系人更多" />
+        <path src="res\drawable-xhdpi\action_mode_immersion_more_light_p.png" description="联系人更多" />
+    </resource>
+    
+    <resource description="小米云服务提示背景" x="0" y="355" width="1080" height="112" uuid="c4e52e29-4e24-436e-b2d0-610901dbcd78">
+        <path src="res\drawable-xxhdpi\cloud_panel_bg_light.9.png" description="小米云服务提示背景" />
+        <path src="res\drawable-xxhdpi\cloud_state_disabled_bg.9.png" description="小米云服务提示背景" />
+        <path src="res\drawable-xxhdpi\cloud_state_enabled_bg.9.png" description="小米云服务提示背景" />
+    </resource>
+
+    <resource description="window_bg_light.9" x="0" y="0" width="1080" height="2158" uuid="afedbc03-4895-45d2-95eb-87e1d6b65aab">
+        <path src="res\drawable-xxhdpi\window_bg_light.9.png" description="全局列表背景" />
+        <path src="res\drawable-xxhdpi\window_bg_secondary_light.9.png" description="拨号列表背景" />
+    </resource>
+    
+    <resource description="list_view_item_group_header_bg_light.9" x="0" y="946" width="1080" height="85" uuid="afedbc03-4895-45d2-95eb-87e1d6b65aab">
+        <path src="res\drawable-xxhdpi\list_view_item_group_header_bg_light.9.png" description="" />
+        <path src="res\drawable-xxhdpi\list_item_overstepped_pressed_light.9.png" description="" />
+    </resource>
+    <resource description="list_item_bg_normal_light.9" x="0" y="1281" width="1080" height="135" uuid="333ee89c-2c52-41e3-b6d8-0b369936ecd9">
+        <path src="res\drawable-xxhdpi\list_item_bg_normal_light.9.png" description="列表常态"/>
+        <path src="res\drawable-xxhdpi\list_item_bg_pressed_light.9.png" description="列表二态"/>
+        <path src="res\drawable-xxhdpi\list_item_bg_selected_light.9.png" description="列表选中态"/>
+    </resource>
+
+
+    <resource description="alphabet_indexer_bg.9" x="1035" y="498" width="45" height="1602" uuid="bfb51ad5-11c4-46a7-9418-09a1da349d4e">
+        <path src="res\drawable-xxhdpi\alphabet_indexer_bg.png" description="索引栏背景" />
+    </resource>
+
+    <resource description="alphabet_indexer_bg.9" x="855" y="1928" width="200" height="200" uuid="bfb51ad5-11c4-46a7-9418-09a1da349d4e">
+        <path src="res\drawable-xxhdpi\action_button_main_bg_light.png" description="全局小按钮背景(短信等)" />
+    </resource>
+</screenshot>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3 短信对话" version="2.9.20" annotation="" tag="短信">
+    <resource description="title_bar_tall_bg.9" x="0" y="60" width="1080" height="206" uuid="55ad49e4-6115-4d1c-9436-8e66710cf577">
+        <path src="res\drawable-xxhdpi\title_bar_tall_bg.9.png" description="联系人标题背景" />
+    </resource>
+
+    <resource description="ic_call_contact" x="950" y="131" width="77" height="71" uuid="0893dca0-812f-497e-9a1e-c9bc3e5cdb6c">
+        <path src="res\drawable-xxhdpi\ic_call_contact.png" description="拨号" />
+        <path src="res\drawable-xxhdpi\ic_call_contact_voip.png" description="拨号" />
+    </resource>
+
+    <resource description="message_bubble_in_bg_p.9.png" x="54" y="363" width="765" height="206" uuid="390335a9-e79e-4d5e-adb7-ec5204ac409c">
+        <path src="res\drawable-xxhdpi\message_bubble_in_bg_n.9.png" description="短信接收_常态" />
+        <path src="res\drawable-xxhdpi\message_bubble_in_bg_p.9.png" description="短信接收_二态" />
+        <path src="res\drawable-xxhdpi\message_bubble_in_thumbnail_bg_n.9.png" description="彩信接收遮罩_常态" />
+        <path src="res\drawable-xxhdpi\message_bubble_in_thumbnail_bg_p.9.png" description="彩信接收遮罩_二态" />
+    </resource>
+
+    <resource description="favorite_icon" x="380" y="620" width="40" height="40" uuid="5f131d2b-204a-49f5-bc55-f727c286f49e">
+        <path src="res\drawable-xxhdpi\favorite_icon.png" description="短信收藏" />
+    </resource>
+
+    <resource description="message_bubble_out_bg_n.9" x="490" y="568" width="543" height="154" uuid="b1ba4b6e-b62a-48a5-9749-9903d4fed9f5">
+        <path src="res\drawable-xxhdpi\message_bubble_out_bg_n.9.png" description="普通短信发出_常态" />
+        <path src="res\drawable-xxhdpi\message_bubble_out_bg_p.9.png" description="普通短信发出_二态" />
+        <path src="res\drawable-xxhdpi\message_bubble_out_thumbnail_bg_n.9.png" description="彩信发送遮罩_常态" />
+        <path src="res\drawable-xxhdpi\message_bubble_out_thumbnail_bg_p.9.png" description="彩信发送遮罩_二态" />
+    </resource>
+
+
+
+    <resource description="mx_type_divider_n" x="148" y="1134" width="527" height="110" uuid="e4dedd50-3925-47b3-b0c4-ef9724d01ec6">
+        <path src="res\drawable-xxhdpi\timing_button_n.9.png" description="定时发送背景常态" />
+        <path src="res\drawable-xxhdpi\timing_button_p.9.png" description="定时发送背景二态" />
+    </resource>
+
+    <resource description="mi_message_bubble_out_bg_p.9.png" x="527" y="721" width="505" height="145" uuid="e4ff0b06-d3b2-438d-b293-bafbd59635ae">
+        <path src="res\drawable-xxhdpi\mi_message_bubble_out_bg_n.9.png" description="网络短信_常态" />
+        <path src="res\drawable-xxhdpi\mi_message_bubble_out_bg_p.9.png" description="网络短信_二态" />
+        <path src="res\drawable-xxhdpi\mi_message_bubble_out_last_bg_n.9.png" description="网络短信最后一条_常态态" />
+        <path src="res\drawable-xxhdpi\mi_message_bubble_out_last_bg_p.9.png" description="网络短信最后一条_二态" />
+    </resource>
+
+    <resource description="conversation_bg.9" x="0" y="48" width="1080" height="2130" uuid="26527dc0-1650-4b9d-991a-dbd6686a09c5">
+        <path src="res\drawable-xxhdpi\conversation_bg.9.png" description="短信会话背景" />
+    </resource>
+
+</screenshot>

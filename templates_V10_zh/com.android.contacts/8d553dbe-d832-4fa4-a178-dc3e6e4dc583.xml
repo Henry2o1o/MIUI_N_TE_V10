@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.4 编辑联系人" version="4.8.25" annotation="" tag="联系人">
+
+    <resource description="内容列背景" x="0" y="621" width="1080" height="138" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\edit_text_bg_spinner_first_light.9.png" description="内容列背景 上" />
+        <path src="res\drawable-xxhdpi\edit_text_bg_spinner_middle_light.9.png" description="内容列背景 中" />
+        <path src="res\drawable-xxhdpi\edit_text_bg_spinner_last_light.9.png" description="内容列背景 下" />
+        <path src="res\drawable-xxhdpi\edit_text_bg_spinner_single_light.9.png" description="内容列背景 单条" />
+    </resource>
+
+
+
+    <resource description="取消按钮" x="656" y="130" width="43" height="30" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\editor_dropdown_indicator_down_n.png" description="编辑联系人弹窗按钮——▲" />
+        <path src="res\drawable-xxhdpi\editor_dropdown_indicator_down_p.png" description="编辑联系人弹窗按钮——▲" />
+        <path src="res\drawable-xxhdpi\editor_dropdown_indicator_up_n.png" description="编辑联系人弹窗按钮——▲" />
+        <path src="res\drawable-xxhdpi\editor_dropdown_indicator_up_p.png" description="编辑联系人弹窗按钮——▲" />
+    </resource>
+    
+
+    <resource description="新建联系人更多选项" x="225" y="960" width="60" height="75" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_first_normal_light.9.png" description="新建联系人更多选项" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_first_pressed_light.9.png" description="新建联系人更多选项" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_last_normal_light.9.png" description="新建联系人更多选项" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_last_pressed_light.9.png" description="新建联系人更多选项" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_middle_normal_light.9.png" description="新建联系人更多选项" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_middle_pressed_light.9.png" description="新建联系人更多选项" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_single_normal_light.9.png" description="新建联系人更多选项" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_single_pressed_light.9.png" description="新建联系人更多选项" />
+    </resource>
+    
+    <resource description="spinner_bg_normal_light.9" x="0" y="1400" width="1080" height="147" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\spinner_bg_normal_light.9.png" description="群组按钮 常态" />
+        <path src="res\drawable-xxhdpi\spinner_bg_pressed_light.9.png" description="群组按钮 二态" />
+    </resource>
+
+    <resource description="editor_button_bg_n.9" x="0" y="1570" width="1080" height="140" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\editor_button_bg_n.9.png" description="按钮 常态" />
+        <path src="res\drawable-xxhdpi\editor_button_bg_p.9.png" description="按钮 二态" />
+    </resource>
+    
+</screenshot>

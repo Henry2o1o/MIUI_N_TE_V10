@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.6 联系人群组" version="4.8.5" annotation="" tag="联系人">
+	<resource description="群组列表小图标" x="80" y="350" width="76" height="91" uuid="c0f6cf71-7627-410f-9f45-e63c193a723d">
+        <path src="res\drawable-xxhdpi\frequency_group.png" description="智能分组_最近联系时间" />
+        <path src="res\drawable-xxhdpi\location_group.png" description="智能分组_所在地" />
+        <path src="res\drawable-xxhdpi\company_group.png" description="智能分组_公司" />
+	</resource>
+	
+	<resource description="群组头像" x="46" y="820" width="153" height="135" uuid="93788ddb-250b-437d-a709-b717c7aabfeb">
+        <path src="res\drawable-xxhdpi\group_photos_container_bg.png" description="群组头像" />
+	</resource>
+	<resource description="联系人列表空时显示的小图标" x="486" y="1056" width="111" height="174" uuid="93788ddb-250b-437d-a709-b717c7aabfeb">
+		<path src="res\drawable-xxhdpi\list_empty_no_contact.png" description="联系人列表空时显示的小图标" />
+		<path src="res\drawable-xxhdpi\list_empty_no_call_log.png" description="通话列表空时显示的小图标" />
+	</resource>
+
+	
+</screenshot>

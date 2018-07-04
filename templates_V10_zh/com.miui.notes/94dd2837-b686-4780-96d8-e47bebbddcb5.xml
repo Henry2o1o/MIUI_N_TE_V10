@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.0 便签主界面" version="4.8.5" annotation="" tag="便签界面">
+
+
+    <resource description="action_button_folders_disable_light" x="641" y="1751" width="117" height="102" uuid="94dd2837-b686-4780-96d8-e47bebbddcb5">
+        <path src="res\drawable-xhdpi\action_button_folders_disable_light.png" description="便签夹不可按" />
+        <path src="res\drawable-xxhdpi\action_button_folders_disable_light.png" description="便签夹不可按" />
+
+        <path src="res\drawable-xhdpi\action_button_folders_normal_light.png" description="便签夹常态" />
+        <path src="res\drawable-xxhdpi\action_button_folders_normal_light.png" description="便签夹常态" />        
+
+        <path src="res\drawable-xhdpi\action_button_folders_pressed_light.png" description="便签夹二态" />
+        <path src="res\drawable-xxhdpi\action_button_folders_pressed_light.png" description="便签夹二态" />
+
+        <path src="res\drawable-xhdpi\ic_folder_create.png" description="便签夹添加" />
+        <path src="res\drawable-xxhdpi\ic_folder_create.png" description="便签夹添加" />      
+
+        <path src="res\drawable-xhdpi\ic_folder_shift.png" description="便签夹移动" />
+        <path src="res\drawable-xxhdpi\ic_folder_shift.png" description="便签夹移动" />
+    </resource> 
+    <resource description="ic_folder_count_seperator" x="205" y="1208" width="20" height="53" uuid="94dd2837-b686-4780-96d8-e47bebbddcb5">
+    	<path src="res\drawable-xhdpi\ic_folder_count_seperator.png" description="便签夹与数字隔离线" />
+        <path src="res\drawable-xxhdpi\ic_folder_count_seperator.png" description="便签夹与数字隔离线" />
+    </resource>
+
+    <resource description="ic_check_normal_n.9" x="935" y="1040" width="100" height="82" uuid="94dd2837-b686-4780-96d8-e47bebbddcb5">
+        <path src="res\drawable-xhdpi\ic_check_normal_n.9.png" description="未选择常态" />
+        <path src="res\drawable-xxhdpi\ic_check_normal_n.9.png" description="未选择常态" />
+
+        <path src="res\drawable-xhdpi\ic_check_normal_p.9.png" description="未选择二态" />
+        <path src="res\drawable-xxhdpi\ic_check_normal_p.9.png" description="未选择二态" />
+    </resource> 
+
+    <resource description="ic_check_normal_c.9" x="935" y="1384" width="100" height="82" uuid="94dd2837-b686-4780-96d8-e47bebbddcb5">
+        <path src="res\drawable-xhdpi\ic_check_normal_c.9.png" description="已选择常态" />
+        <path src="res\drawable-xxhdpi\ic_check_normal_c.9.png" description="已选择常态" />
+
+        <path src="res\drawable-xhdpi\ic_check_small_c.9.png" description="已选择二态" />
+        <path src="res\drawable-xxhdpi\ic_check_small_c.9.png" description="已选择二态" />
+    </resource> 
+
+    <resource description="ic_list_blue" x="1010" y="526" width="70" height="73" uuid="94dd2837-b686-4780-96d8-e47bebbddcb5">
+        <path src="res\drawable-xhdpi\ic_list_blue.png" description="蓝色点" />
+        <path src="res\drawable-xxhdpi\ic_list_blue.png" description="蓝色点" />
+
+        <path src="res\drawable-xhdpi\ic_list_green.png" description="绿色点" />
+        <path src="res\drawable-xxhdpi\ic_list_green.png" description="绿色点" />        
+
+        <path src="res\drawable-xhdpi\ic_list_red.png" description="红色点" />
+        <path src="res\drawable-xxhdpi\ic_list_red.png" description="红色点" />
+
+        <path src="res\drawable-xhdpi\ic_list_white.png" description="黄色?!" />
+        <path src="res\drawable-xxhdpi\ic_list_white.png" description="黄色?!" />        
+
+        <path src="res\drawable-xhdpi\ic_list_yellow.png" description="白色?!" />
+        <path src="res\drawable-xxhdpi\ic_list_yellow.png" description="白色?!" />
+    </resource>
+
+  
+</screenshot>

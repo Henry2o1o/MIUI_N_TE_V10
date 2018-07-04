@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.0 私密短信" version="3.3.1" annotation="" tag="短信">
+    <resource description="private_lock_icon" x="392" y="592" width="272" height="252" uuid="864ac112-5a4a-498e-94c8-8c3a6106ad2d">
+        <path src="res\drawable-xxhdpi\private_lock_icon.png" description="私密短信" />
+        <path src="res\drawable-xxhdpi\conversation_empty.png" description="短信列表空标志" />
+        <path src="res\drawable-xxhdpi\bookmark_empty.png" description="收藏短信列表空标志" />
+    </resource>
+
+    <resource description="conversation_stuck_indicator" x="1038" y="925" width="42" height="44" uuid="3c990e1f-c45b-42f4-94b2-2ca2dc3ad296">
+        <path src="res\drawable-xxhdpi\conversation_stuck_indicator.png" description="置顶图标" />
+    </resource>
+
+    <resource description="sp_contact_pic" x="49" y="1132" width="137" height="137" uuid="f04c8b8c-a612-42b2-81f3-c262d3068243">
+        <path src="res\drawable-xxhdpi\sp_contact_pic.png" description="通知类短信图标" />
+        <path src="res\drawable-xxhdpi\ic_block_entry.png" description="拦截类短信图标" />
+        <path src="res\drawable-xxhdpi\ic_bookmarks.png" description="我的收藏短信图标" />
+        <path src="res\drawable-xxhdpi\ic_mipub_entry.png" description="服务号短信图标" />
+    </resource>
+
+    <resource description="双卡标识" x="964" y="960" width="63" height="70" uuid="3c990e1f-c45b-42f4-94b2-2ca2dc3ad296">
+        <path src="res\drawable-xxhdpi\ic_conversation_sim1_indicator.png" description="双卡标识" />
+        <path src="res\drawable-xxhdpi\ic_conversation_sim2_indicator.png" description="双卡标识" />
+    </resource>
+    
+	<resource description="新短信小蓝点" x="20" y="1356" width="34" height="40" uuid="3c990e1f-c45b-42f4-94b2-2ca2dc3ad296">
+        <path src="res\drawable-xxhdpi\screen_view_seek_point_highlight.png" description="新短信小蓝点" />
+    </resource>
+    
+    <resource description="conversation_attachment_indicator" x="670" y="970" width="150" height="58" uuid="feedd720-411a-4777-83ec-354ad97ae05d">
+        <path src="res\drawable-xxhdpi\conversation_attachment_indicator.png" description="附件" />
+        <path src="res\drawable-xxhdpi\conversation_timed_indicator.png" description="定时发送" />
+        <path src="res\drawable-xxhdpi\conversation_error_indicator.png" description="发送失败" />
+        <path src="res\drawable-xxhdpi\conversation_draft_indicator.png" description="编辑" />
+    </resource>
+
+</screenshot>

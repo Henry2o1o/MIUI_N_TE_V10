@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.1 联系人搜索" version="4.8.6" annotation="" tag="其他">
+    <resource description="search_mode_input_bg_light.9" x="0" y="0" width="1080" height="220" uuid="4d9443a3-463c-49b9-bb05-36df58d6852e">
+        <path src="res\drawable-xxhdpi\search_mode_input_bg_light.9.png" description="搜索背景" />
+    </resource>
+
+    <resource description="搜索删除按钮" x="965" y="99" width="72" height="75" uuid="017b8dca-cfdc-4c65-8847-3b80b587f7d7">
+        <path src="res\drawable-xxhdpi\edit_text_search_clear_btn_on_light.png" description="搜索删除按钮" />
+    </resource>
+
+    <resource description="系统搜索框" x="18" y="63" width="1047" height="145" uuid="017b8dca-cfdc-4c65-8847-3b80b587f7d7">
+        <path src="res\drawable-xxhdpi\search_mode_edit_text_bg_light.9.png" description="系统搜索框" />
+    </resource>
+
+
+    <resource description="action_bar_back_search_normal_light" x="60" y="90" width="52" height="90" uuid="97a4d02f-ee38-403a-bc7d-34a52c420d15">
+        <path src="res\drawable-xxhdpi\action_bar_back_search_normal_light.png" description="搜索返回按钮常态" />
+        <path src="res\drawable-xxhdpi\action_bar_back_search_pressed_light.png" description="搜索返回按钮二态" />       
+        <path src="res\drawable-xxhdpi\action_bar_back_normal_light.png" description="返回按钮常态" />
+        <path src="res\drawable-xxhdpi\action_bar_back_pressed_light.png" description="返回按钮二态" />
+    </resource>
+
+        
+
+</screenshot>
