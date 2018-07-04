@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.6 开关合集" version="4.8.5" tag="通知栏">
+    <resource description="开关常态" x="102" y="185" width="136" height="136" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-xxhdpi\ic_qs_bg_disabled.png" description="开关背景关闭状态" />
+    </resource>
+
+    <resource description="开关常态" x="129" y="213" width="80" height="80" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-xxhdpi\ic_qs_auto_rotate_disable.png" description="开关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_battery_saver_off.png" description="开关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_bluetooth_off.png" description="开关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_brightness_manual.png" description="开关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_data_off.png" description="开关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_dnd_off.png" description="开关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_drive_disable.png" description="开关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_dual_location_enabled.png" description="开关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_flashlight_disable.png" description="开关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_hotspot_disable.png" description="开关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_location_disabled.png" description="开关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_midrop_off.png" description="开关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_mute_off.png" description="开关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_paper_mode_off.png" description="开关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_power_high_off.png" description="开关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_screen_button_disabled.png" description="开关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_sync_off.png" description="开关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_vibrate_off.png" description="开关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_wifi_off.png" description="开关闭状态" />
+        <path src="res\drawable-xxhdpi\ic_signal_airplane_disable.png" description="开关闭状态" />
+    </resource>
+    
+    <resource description="开关按下态" x="350" y="185" width="136" height="136" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-xxhdpi\ic_qs_bg_enabled.png" description="开关背景按下态以及开启状态" />
+    </resource>
+
+    <resource description="开关常态" x="374" y="213" width="80" height="80" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-xxhdpi\ic_qs_auto_rotate_enable.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_battery_saver_on.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_bluetooth_on.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_brightness_auto.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_data_on.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_dnd_on.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_drive_ensable.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_dual_location_disabled.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_edit.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_flashlight_enable.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_hotspot_enable.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_location_enabled.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_midrop_on.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_mute_on.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_paper_mode_on.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_power_high_on.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_screen_button_enabled.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_screenlock.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_screenshot.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_sync_on.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_vibrate_on.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_qs_wifi_on.png" description="开关背景开启状态" />
+        <path src="res\drawable-xxhdpi\ic_signal_airplane_enable.png" description="开关背景开启状态" />
+    </resource>
+
+</screenshot>

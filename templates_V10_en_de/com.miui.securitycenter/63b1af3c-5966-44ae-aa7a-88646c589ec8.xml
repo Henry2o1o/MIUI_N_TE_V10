@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.0 Startseite der Benachrichtigungsleiste" version="4.8.5" tag="Benachrichtigungsleiste">
+
+
+    <resource description="kleine Symbole einstellen" x="72" y="575" width="66" height="78" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\status_bar_flow_5.png" description="Kl. Symbol (insges. 12)" />
+        <path src="res\drawable-land-xxhdpi\icon_garbage_notification.png" description="Speicher Verfügbare Flags" />
+        <path src="res\drawable-land-xxhdpi\icon_antispam_notification_normal.png" description="Abfangen kleine Symbolen" />
+        <path src="res\drawable-land-xxhdpi\icon_power_normal.png" description="Akkuanzeige" />
+    </resource>
+    
+  
+</screenshot>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 Benachrichtigungsseite" version="4.8.5" tag="Benachrichtigungsleiste">
+    <resource description="Einstellung" x="658" y="1357" width="199" height="185" uuid="15d8742c-8cc3-4b40-ac72-ada01ed902fc">
+        <path src="res\drawable-land-xxhdpi\ic_settings.png" description="Normalzustand einstellen" />
+    </resource>
+    <resource description="Schild" x="852" y="1357" width="199" height="185" uuid="15d8742c-8cc3-4b40-ac72-ada01ed902fc">
+        <path src="res\drawable-land-xxhdpi\ic_filter.png" description="Abschirmung normal" />
+    </resource>
+    <resource description="Warnendes kleines Zeichen" x="331" y="1579" width="77" height="99" uuid="15d8742c-8cc3-4b40-ac72-ada01ed902fc">
+        <path src="res\drawable-land-xxhdpi\ic_remove_from_filter.png" description="Warnendes kleines Zeichen" />
+    </resource>
+    
+</screenshot>

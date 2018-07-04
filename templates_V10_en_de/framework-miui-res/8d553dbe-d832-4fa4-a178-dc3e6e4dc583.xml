@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.2 编辑模式1" version="4.8.25" annotation="" tag="全局控件">
+    <resource description="action_mode_bg.9" x="0" y="0" width="1080" height="195" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\action_mode_bg_light.9.png" description="新建联系人标题" />
+    </resource>
+
+    <resource description="取消按钮" x="39" y="87" width="93" height="110" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\action_mode_title_button_cancel_d_light.png" description="编辑模式取消按钮——×" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_cancel_n_light.png" description="编辑模式取消按钮——×" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_cancel_p_light.png" description="编辑模式取消按钮——×" />
+    </resource>
+
+    <resource description="contact_editor_photo_bg.9" x="942" y="87" width="93" height="110" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\action_mode_title_button_confirm_d_light.png" description="取消按钮——√" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_confirm_n_light.png" description="取消按钮——√" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_confirm_p_light.png" description="取消按钮——√" />
+    </resource>
+
+    <resource description="删除按钮" x="960" y="960" width="75" height="75" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\btn_inline_delete_normal_light.png" description="删除按钮 常态" />
+        <path src="res\drawable-xxhdpi\btn_inline_delete_pressed_light.png" description="删除按钮 二态" />
+    </resource>
+
+
+    <resource description="editor_button_bg_n.9" x="0" y="1570" width="1080" height="140" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\editor_button_bg_n.9.png" description="按钮 常态" />
+        <path src="res\drawable-xxhdpi\editor_button_bg_p.9.png" description="按钮 二态" />
+    </resource>
+    
+</screenshot>

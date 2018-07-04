@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 Desktopeinstellungen" version="4.8.26" annotation="" tag="Desktop">
+    <resource description="" x="380" y="267" width="320" height="483" uuid="d5587a11-696c-11e8-8e0a-484d7e99a189">
+        <path src="res\drawable-xxhdpi\thumbnail_item_fg.png" description="Hauptbildschirm - Desktop-Miniaturhintergrund festlegen" />
+    </resource>
+    <resource description="Bildschirm-Umschalt-Effekt" x="123" y="1820" width="107" height="74" uuid="e65a6b70-696c-11e8-91b3-484d7e99a189">
+        <path src="res\drawable-xxhdpi\transition_effect_classic.png" description="Desktop-Bildschirm-Effekt kl. Symbol" />
+        <path src="res\drawable-xxhdpi\transition_effect_classic_no_over_shoot.png" description="Desktop-Bildschirm-Effekt kl. Symbol" />
+        <path src="res\drawable-xxhdpi\transition_effect_cube.png" description="Desktop-Bildschirm-Effekt kl. Symbol" />
+        <path src="res\drawable-xxhdpi\transition_effect_fade_out.png" description="桌Desktop-Bildschirm-Effekt kl. Symbol" />
+        <path src="res\drawable-xxhdpi\transition_effect_fall_down.png" description="Desktop-Bildschirm-Effekt kl. Symbol" />
+        <path src="res\drawable-xxhdpi\transition_effect_left_page.png" description="Desktop-Bildschirm-Effekt kl. Symbol" />
+        <path src="res\drawable-xxhdpi\transition_effect_rotate.png" description="Desktop-Bildschirm-Effekt kl. Symbol" />
+        <path src="res\drawable-xxhdpi\transition_effect_stack.png" description="Desktop-Bildschirm-Effekt kl. Symbol" />
+    </resource>
+</screenshot>

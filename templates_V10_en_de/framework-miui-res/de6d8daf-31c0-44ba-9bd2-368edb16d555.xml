@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.2 System-Popup" version="4.8.6" annotation="" tag="全局控件">
+    <resource description="Popup-Fenster mehrspaltiger Selektor" x="26" y="172" width="1033" height="644" uuid="c4e52e29-4e24-436e-b2d0-610901dbcd78">
+        <path src="res\drawable-xxhdpi\number_picker_bg_single.9.png" description="Popup-Fenster mehrspaltiger Selektor" />
+        <path src="res\drawable-xxhdpi\number_picker_bg_middle.9.png" description="Popup-Fenster mehrspaltiger Selektor" />
+        <path src="res\drawable-xxhdpi\number_picker_bg_last.9.png" description="Popup-Fenster mehrspaltiger Selektor" />
+        <path src="res\drawable-xxhdpi\number_picker_bg_first.9.png" description="Popup-Fenster mehrspaltiger Selektor" />
+    </resource>
+    <resource description="System-Popup" x="21" y="970" width="1043" height="650" uuid="c4e52e29-4e24-436e-b2d0-610901dbcd78">
+        <path src="res\drawable-xxhdpi\dialog_bg_light.9.png" description="Popup-Fensterhintergrund" />
+    </resource>
+    <resource description="System-Popup-Fenster-Eingabefeld" x="99" y="1242" width="891" height="156" uuid="c4e52e29-4e24-436e-b2d0-610901dbcd78">
+        <path src="res\drawable-xxhdpi\edit_text_bg_single_light.9.png" description="Globales Eingabefeld" />
+        <path src="res\drawable-xxhdpi\edit_text_bg_dialog_single_light.9.png" description="Globales Eingabefeld" />
+    </resource>
+    <resource description="Aktualisieren kleine Symbol System-Popup" x="78" y="1684" width="120" height="105" uuid="c4e52e29-4e24-436e-b2d0-610901dbcd78">
+        <path src="res\drawable-xxhdpi\progressbar_indeterminate_circle_light.png" description="Aktualisieren kleine Symbol System-Popup" />
+        <path src="res\drawable-xxhdpi\progressbar_indeterminate_circle_small_light.png" description="Aktualisieren kleine Symbol System-Popup" />
+        <path src="res\drawable-xxhdpi\progressbar_indeterminate_circle_dark.png" description="Aktualisieren kleine Symbol System-Popup" />
+        <path src="res\drawable-xxhdpi\progressbar_indeterminate_circle_small_dark.png" description="Aktualisieren kleine Symbol System-Popup" />
+    </resource>
+    <resource description="Fortschrittsbalken" x="78" y="1914" width="911" height="176" uuid="c4e52e29-4e24-436e-b2d0-610901dbcd78">
+        <path src="res\drawable-xxhdpi\progressbar_horizontal_primary.9.png" description="Fortschrittsbalken" />
+        <path src="res\drawable-xxhdpi\progressbar_horizontal_bg.9.png" description="Fortschritt bar_bg" />
+        <path src="res\drawable-xxhdpi\progressbar_progress_indeterminate_mask.9.png" description="Fortschrittsbalken _ Maske" />
+    </resource>
+    
+    <resource description="Popup-Taste" x="22" y="806" width="1038" height="153" uuid="93788ddb-250b-437d-a709-b717c7aabfeb">
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_dialog_first_normal_light.9.png" description="Linke Taste normal" />
+        <path src="res\drawable-xhdpi\btn_bg_dialog_first_normal_light.9.png" description="Linke Taste normal" />
+        <path src="res\drawable-xxhdpi\btn_bg_dialog_first_normal_light.9.png" description="Linke Taste normal" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_dialog_first_pressed_light.9.png" description="Links button_press" />
+        <path src="res\drawable-xhdpi\btn_bg_dialog_first_pressed_light.9.png" description="Links Taste press" />
+        <path src="res\drawable-xxhdpi\btn_bg_dialog_first_pressed_light.9.png" description="Links Taste press" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_dialog_last_normal_light.9.png" description="Rechte Taste normal" />
+        <path src="res\drawable-xhdpi\btn_bg_dialog_last_normal_light.9.png" description="Rechte Taste normal" />
+        <path src="res\drawable-xxhdpi\btn_bg_dialog_last_normal_light.9.png" description="Rechte Taste normal" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_dialog_last_pressed_light.9.png" description="Rechte Taste press" />
+        <path src="res\drawable-xhdpi\btn_bg_dialog_last_pressed_light.9.png" description="Rechte Taste press" />
+        <path src="res\drawable-xxhdpi\btn_bg_dialog_last_pressed_light.9.png" description="Rechte Taste press" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_dialog_middle_normal_light.9.png" description="Mittlere Taste normal" />
+        <path src="res\drawable-xhdpi\btn_bg_dialog_middle_normal_light.9.png" description="Mittlere Taste normal" />
+        <path src="res\drawable-xxhdpi\btn_bg_dialog_middle_normal_light.9.png" description="Mittlere Taste normal" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_dialog_middle_pressed_light.9.png" description="Mittlere Taste press" />
+        <path src="res\drawable-xhdpi\btn_bg_dialog_middle_pressed_light.9.png" description="Mittlere Taste press" />
+        <path src="res\drawable-xxhdpi\btn_bg_dialog_middle_pressed_light.9.png" description="Mittlere Taste press" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_dialog_single_normal_light.9.png" description="Trennen Taste normal" />
+        <path src="res\drawable-xhdpi\btn_bg_dialog_single_normal_light.9.png" description="Trennen Taste normal" />
+        <path src="res\drawable-xxhdpi\btn_bg_dialog_single_normal_light.9.png" description="Trennen Taste normal" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_dialog_single_pressed_light.9.png" description="Separate Taste press" />
+        <path src="res\drawable-xhdpi\btn_bg_dialog_single_pressed_light.9.png" description="Separate Taste press" />
+        <path src="res\drawable-xxhdpi\btn_bg_dialog_single_pressed_light.9.png" description="Separate Taste press" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_rect_normal_light.9.png" description="Rechteckige Taste bg_press" />
+        <path src="res\drawable-xhdpi\btn_bg_rect_normal_light.9.png" description="Rechteckige Taste bg_press" />
+        <path src="res\drawable-xxhdpi\btn_bg_rect_normal_light.9.png" description="Rechteckige Taste bg_press" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_rect_pressed_light.9.png" description="Rechteckige Taste bg_press" />
+        <path src="res\drawable-xhdpi\btn_bg_rect_pressed_light.9.png" description="Rechteckige Taste bg_press" />
+        <path src="res\drawable-xxhdpi\btn_bg_rect_pressed_light.9.png" description="Rechteckige Taste bg_press" />
+
+    </resource> 
+</screenshot>

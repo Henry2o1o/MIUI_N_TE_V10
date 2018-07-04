@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.4 全局按钮以及开关等" version="4.9.1" annotation="" tag="全局控件">
+
+    <resource description="系统滑动调节" x="63" y="158" width="991" height="86" uuid="813d390b-2c12-4e87-b15f-75252ed28072">
+        <path src="res\drawable-xxhdpi\seekbar_bg_light.9.png" description="滑动条_背景" />
+        <path src="res\drawable-xxhdpi\seekbar_progress_mask_light.9.png" description="滑动条_遮罩" />
+        <path src="res\drawable-xxhdpi\seekbar_progress_primary_light.9.png" description="滑动条_进度" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_disabled_light.png" description="进度条滑块_不可按状态" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_focused_light.png" description="进度条滑块_滑动状态" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_normal_light.png" description="进度条滑块_常态" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_pressed_light.png" description="进度条滑块_按下状态" />
+    </resource>
+
+    <resource description="系统对选按钮" x="91" y="310" width="932" height="100" uuid="2cf81afa-6a1f-4208-b466-3f5e8690bccc">
+        <path src="res\drawable-xxhdpi\btn_checkbox_off_disabled_light.png" description="弹窗选择按钮_未选_不可按状态" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_off_normal_light.png" description="弹窗选择按钮_未选_常态" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_on_disabled_light.png" description="弹窗选择按钮_已选_不可按状态" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_on_normal_light.png" description="弹窗选择按钮_已选_常态" />
+
+        <path src="res\drawable-xxhdpi\btn_checkbox_off_disabled_light.png" description="多选按钮_未选_不可按状态(深色背景)" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_off_normal_light.png" description="多选按钮_未选_常态(深色背景)" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_on_disabled_light.png" description="多选按钮_已选_不可按状态(深色背景)" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_on_normal_light.png" description="多选按钮_已选_常态(深色背景)" />
+
+        <path src="res\drawable-xxhdpi\btn_checkbox_off_disabled_dark.png" description="多选按钮_未选_不可按状态(浅色背景)" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_off_normal_dark.png" description="多选按钮_未选_常态(浅色背景)" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_on_disabled_dark.png" description="多选按钮_已选_不可按状态(浅色背景)" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_on_normal_dark.png" description="多选按钮_已选_常态(浅色背景)" />
+    </resource>
+
+    <resource description="系统按钮" x="63" y="686" width="964" height="144" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_single_normal_light.9.png" description="单独按钮_常态" />
+        <path src="res\drawable-xhdpi\btn_bg_single_normal_light.9.png" description="单独按钮_常态" />
+        <path src="res\drawable-xxhdpi\btn_bg_single_normal_light.9.png" description="单独按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_single_pressed_light.9.png" description="单独按钮_按下" />
+        <path src="res\drawable-xhdpi\btn_bg_single_pressed_light.9.png" description="单独按钮_按下" />
+        <path src="res\drawable-xxhdpi\btn_bg_single_pressed_light.9.png" description="单独按钮_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_warn_single_disable_light.9.png" description="提醒按钮_不可按状态" />
+        <path src="res\drawable-xhdpi\btn_bg_warn_single_disable_light.9.png" description="提醒按钮_不可按状态" />
+        <path src="res\drawable-xxhdpi\btn_bg_warn_single_disable_light.9.png" description="提醒按钮_不可按状态" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_warn_single_normal_light.9.png" description="提醒按钮_常态" />
+        <path src="res\drawable-xhdpi\btn_bg_warn_single_normal_light.9.png" description="提醒按钮_常态" />
+        <path src="res\drawable-xxhdpi\btn_bg_warn_single_normal_light.9.png" description="提醒按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_warn_single_pressed_light.9.png" description="提醒按钮_按下" />
+        <path src="res\drawable-xhdpi\btn_bg_warn_single_pressed_light.9.png" description="提醒按钮_按下" />
+        <path src="res\drawable-xxhdpi\btn_bg_warn_single_pressed_light.9.png" description="提醒按钮_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_first_normal_light.9.png" description="左按钮_常态" />
+        <path src="res\drawable-xhdpi\btn_bg_first_normal_light.9.png" description="左按钮_常态" />
+        <path src="res\drawable-xxhdpi\btn_bg_first_normal_light.9.png" description="左按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_first_pressed_light.9.png" description="左按钮_按下" />
+        <path src="res\drawable-xhdpi\btn_bg_first_pressed_light.9.png" description="左按钮_按下" />
+        <path src="res\drawable-xxhdpi\btn_bg_first_pressed_light.9.png" description="左按钮_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_last_normal_light.9.png" description="右按钮_常态" />
+        <path src="res\drawable-xhdpi\btn_bg_last_normal_light.9.png" description="右按钮_常态" />
+        <path src="res\drawable-xxhdpi\btn_bg_last_normal_light.9.png" description="右按钮_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_bg_last_pressed_light.9.png" description="右按钮_按下" />
+        <path src="res\drawable-xhdpi\btn_bg_last_pressed_light.9.png" description="右按钮_按下" />
+        <path src="res\drawable-xxhdpi\btn_bg_last_pressed_light.9.png" description="右按钮_按下" />
+    </resource>
+
+    <resource description="系统泡泡浅色" x="63" y="1009" width="440" height="246" uuid="818a08c2-724b-48e4-86ff-30bf0c40176e">
+        <path src="res\drawable-xxhdpi\explain_bg.9.png" description="系统泡泡浅色" />
+    </resource>
+    <resource description="ic_contact_group_photo" x="63" y="1288" width="124" height="124" uuid="f04c8b8c-a612-42b2-81f3-c262d3068243">
+        <path src="res\drawable-xhdpi\ic_contact_group_photo.png" description="短信联系人头像(群组)" />        
+        <path src="res\drawable-xxhdpi\ic_contact_group_photo.png" description="短信联系人头像(群组)" />
+
+        <path src="res\drawable-xhdpi\ic_contact_list_picture.png" description="短信联系人头像(正常)" />        
+        <path src="res\drawable-xxhdpi\ic_contact_list_picture.png" description="短信联系人头像(正常)" /> 
+
+        <path src="res\drawable-xhdpi\ic_contact_list_picture2.png" description="短信联系人头像(正常)2" />        
+        <path src="res\drawable-xxhdpi\ic_contact_list_picture2.png" description="短信联系人头像(正常)2" /> 
+
+        <path src="res\drawable-xhdpi\ic_contact_list_picture3.png" description="短信联系人头像(正常)3" />        
+        <path src="res\drawable-xxhdpi\ic_contact_list_picture3.png" description="短信联系人头像(正常)3" /> 
+
+        <path src="res\drawable-xhdpi\ic_contact_list_picture4.png" description="短信联系人头像(正常)4" />        
+        <path src="res\drawable-xxhdpi\ic_contact_list_picture4.png" description="短信联系人头像(正常)4" />        
+        
+        <path src="res\drawable-xhdpi\ic_contact_photo_fg.png" description="短信联系人头像(上层)" />        
+        <path src="res\drawable-xxhdpi\ic_contact_photo_fg.png" description="短信联系人头像(上层)" />        
+        
+        <path src="res\drawable-xhdpi\ic_contact_photo_mask.png" description="短信联系人头像(遮罩)" />        
+        <path src="res\drawable-xxhdpi\ic_contact_photo_mask.png" description="短信联系人头像(遮罩)" />        
+        
+        <path src="res\drawable-xhdpi\ic_contact_picture_dark.png" description="短信联系人头像" />        
+        <path src="res\drawable-xxhdpi\ic_contact_picture_dark.png" description="短信联系人头像" />        
+        
+        <path src="res\drawable-xhdpi\ic_contact_sp_picture.png" description="短信联系人头像" />        
+        <path src="res\drawable-xxhdpi\ic_contact_sp_picture.png" description="短信联系人头像" />        
+        
+        <path src="res\drawable-xhdpi\ic_contact_unknown_picture.png" description="短信联系人头像(陌生人)" />        
+        <path src="res\drawable-xxhdpi\ic_contact_unknown_picture.png" description="短信联系人头像(陌生人)" />        
+        
+        <path src="res\drawable-xhdpi\word_photo_bg.png" description="短信联系人头像(文字背景)" />        
+        <path src="res\drawable-xxhdpi\word_photo_bg.png" description="短信联系人头像(文字背景)" />        
+    </resource>
+
+    <resource description="btn_inline_detail_pressed_light" x="966" y="1618" width="90" height="78" uuid="c4e52e29-4e24-436e-b2d0-610901dbcd78">
+        <path src="res\drawable-sw600dp-xhdpi\btn_inline_detail_normal_light.png" description="查看详情按钮_常态" />
+
+        <path src="res\drawable-xhdpi\btn_inline_detail_normal_light.png" description="查看详情按钮_常态" />
+        <path src="res\drawable-xxhdpi\btn_inline_detail_normal_light.png" description="查看详情按钮_常态" />
+
+        <path src="res\drawable-sw600dp-xhdpi\btn_inline_detail_pressed_light.png" description="查看详情按钮_按下" />
+        <path src="res\drawable-xhdpi\btn_inline_detail_pressed_light.png" description="查看详情按钮_按下" />
+        <path src="res\drawable-xxhdpi\btn_inline_detail_pressed_light.png" description="查看详情按钮_按下" />
+
+        <path src="res\drawable-xxhdpi\arrow_right_normal.png" description="设置查看详情按钮_常态" />
+        <path src="res\drawable-xxhdpi\arrow_right_pressed.png" description="设置查看详情按钮_二态" />
+        <path src="res\drawable-xxhdpi\arrow_right_disable.png" description="设置查看详情按钮_不可按"/>
+        <path src="res\drawable-xhdpi\arrow_right_normal.png" description="设置查看详情按钮_常态" />
+        <path src="res\drawable-xhdpi\arrow_right_pressed.png" description="设置查看详情按钮_二态" />
+        <path src="res\drawable-xhdpi\arrow_right_disable.png" description="设置查看详情按钮_不可按"/>
+    </resource>
+
+    <resource description="sliding_btn_slider_on_pressed_light" x="884" y="1752" width="162" height="96" uuid="818a08c2-724b-48e4-86ff-30bf0c40176e">
+        <path src="res\drawable-xxhdpi\sliding_btn_slider_off_normal_light.png" description="开关滑块_关_常态" />
+        <path src="res\drawable-xxhdpi\sliding_btn_slider_off_pressed_light.png" description="开关滑块_关_按下" />
+        <path src="res\drawable-xxhdpi\sliding_btn_slider_on_normal_light.png" description="开关滑块_开_常态" />
+        <path src="res\drawable-xxhdpi\sliding_btn_slider_on_pressed_light.png" description="开关滑块_开_按下态" />
+        <path src="res\drawable-xxhdpi\sliding_btn_bar_off_light.png" description="开关_关_背景" />
+        <path src="res\drawable-xxhdpi\sliding_btn_bar_on_light.png" description="开关_开_背景" />
+        <path src="res\drawable-xxhdpi\sliding_btn_bg_light.png" description="开关背景" />
+        <path src="res\drawable-xxhdpi\sliding_btn_frame_light.png" description="开关线框" />
+        <path src="res\drawable-xxhdpi\sliding_btn_mask_light.png" description="开关遮罩" />
+    </resource>
+
+    <resource description="btn_radio_on_light" x="15" y="2057" width="49" height="60" uuid="3cbd1778-25a5-4aaf-b74c-18864af98931">
+        <path src="res\drawable-sw600dp-xhdpi\btn_radio_off_light.png" description="未选" />
+        <path src="res\drawable-sw720dp-xhdpi\btn_radio_off_light.png" description="未选" />
+        <path src="res\drawable-xhdpi\btn_radio_off_light.png" description="未选" />
+        <path src="res\drawable-xxhdpi\btn_radio_off_light.png" description="未选" />
+        <path src="res\drawable-sw600dp-xhdpi\btn_radio_on_light.png" description="选择" />
+        <path src="res\drawable-sw720dp-xhdpi\btn_radio_on_light.png" description="选择" />
+        <path src="res\drawable-xhdpi\btn_radio_on_light.png" description="选择" />
+        <path src="res\drawable-xxhdpi\btn_radio_on_light.png" description="选择" />
+    </resource>
+
+</screenshot>

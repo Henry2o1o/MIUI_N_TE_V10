@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3 Andere" version="4.8.27" annotation="" tag="Desktop">
+    <resource description="uninstall_dialog_right_btn_n.9" x="218" y="458" width="644" height="153" uuid="813eed82-8ed7-4256-ba17-5b0ed35ea001">
+        <path src="res\drawable-xxhdpi\uninstall_dialog_left_btn_n.9.png" description="Löschbestätigungstaste l. anw." />
+        <path src="res\drawable-xxhdpi\uninstall_dialog_left_btn_p.9.png" description="Löschbestätigungstaste l. 2 Zustände anw." />
+        <path src="res\drawable-xxhdpi\uninstall_dialog_right_btn_n.9.png" description="Löschbestätigungstaste r. anw." />
+        <path src="res\drawable-xxhdpi\uninstall_dialog_right_btn_p.9.png" description="Löschbestätigungstaste r. 2 Zustände anw." />
+    </resource>
+</screenshot>

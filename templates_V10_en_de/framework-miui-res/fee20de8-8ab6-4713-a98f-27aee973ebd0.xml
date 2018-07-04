@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1 Kontaktliste" version="4.8.5" annotation="" tag="联系人">
+	<resource description="Mehr Kontakte" x="956" y="96" width="74" height="95" uuid="0f5033a9-4ec5-4bff-be55-951678db90b2">
+        <path src="res\drawable-xhdpi\action_mode_immersion_more_light_n.png" description="Mehr Kontakte" />
+        <path src="res\drawable-xhdpi\action_mode_immersion_more_light_p.png" description="Mehr Kontakte" />
+    </resource>
+
+
+    <resource description="Kontaktliste Buchstabe Sequenz Hintergrund" x="0" y="1132" width="1070" height="74" uuid="0f5033a9-4ec5-4bff-be55-951678db90b2">
+        <path src="res\drawable-xhdpi\list_view_item_group_header_top_bg_light.9.png" description="Kontakt Anfangsbuchstaben-Schriftarthintergrund Oben" />
+        <path src="res\drawable-xxhdpi\list_view_item_group_header_top_bg_light.9.png" description="Kontakt Anfangsbuchstaben-Schriftarthintergrund Oben" />
+		<path src="res\drawable-xhdpi\list_view_item_group_header_bg_light.9.png" description="Kontakt Anfangsbuchstaben-Schriftarthintergrund Oben" />
+        <path src="res\drawable-xxhdpi\list_view_item_group_header_bg_light.9.png" description="Kontakt Anfangsbuchstaben-Schriftarthintergrund Oben" />
+    </resource>
+
+</screenshot>

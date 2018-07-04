@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3 下弹窗列表" version="4.8.6" annotation="" tag="全局控件">
+    <resource description="list_item_bg_dropdown_popup_first_normal_light.9" x="6" y="350" width="1062" height="118" uuid="bfb51ad5-11c4-46a7-9418-09a1da349d4e">
+        <path src="res\drawable-sw600dp-xhdpi\list_item_bg_dropdown_popup_first_normal_light.9.png" description="下拉弹窗列表_上_常态" />
+        <path src="res\drawable-xhdpi\list_item_bg_dropdown_popup_first_normal_light.9.png" description="下拉弹窗列表_上_常态" />
+        <path src="res\drawable-xxhdpi\list_item_bg_dropdown_popup_first_normal_light.9.png" description="下拉弹窗列表_上_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_bg_dropdown_popup_first_pressed_light.9.png" description="下拉弹窗列表_上_按下" />
+        <path src="res\drawable-xhdpi\list_item_bg_dropdown_popup_first_pressed_light.9.png" description="下拉弹窗列表_上_按下" />
+        <path src="res\drawable-xxhdpi\list_item_bg_dropdown_popup_first_pressed_light.9.png" description="下拉弹窗列表_上_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_bg_dropdown_popup_last_pressed_light.9.png" description="下拉弹窗列表_下_按下" />
+        <path src="res\drawable-xhdpi\list_item_bg_dropdown_popup_last_pressed_light.9.png" description="下拉弹窗列表_下_按下" />
+        <path src="res\drawable-xxhdpi\list_item_bg_dropdown_popup_last_pressed_light.9.png" description="下拉弹窗列表_下_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_bg_dropdown_popup_last_normal_light.9.png" description="下拉弹窗列表_下_常态" />
+        <path src="res\drawable-xhdpi\list_item_bg_dropdown_popup_last_normal_light.9.png" description="下拉弹窗列表_下_常态" />
+        <path src="res\drawable-xxhdpi\list_item_bg_dropdown_popup_last_normal_light.9.png" description="下拉弹窗列表_下_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_bg_dropdown_popup_middle_normal_light.9.png" description="下拉弹窗列表_中_常态" />
+        <path src="res\drawable-xhdpi\list_item_bg_dropdown_popup_middle_normal_light.9.png" description="下拉弹窗列表_中_常态" />
+        <path src="res\drawable-xxhdpi\list_item_bg_dropdown_popup_middle_normal_light.9.png" description="下拉弹窗列表_中_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_bg_dropdown_popup_middle_pressed_light.9.png" description="下拉弹窗列表_中_按下" />
+        <path src="res\drawable-xhdpi\list_item_bg_dropdown_popup_middle_pressed_light.9.png" description="下拉弹窗列表_中_按下" />
+        <path src="res\drawable-xxhdpi\list_item_bg_dropdown_popup_middle_pressed_light.9.png" description="下拉弹窗列表_中_按下" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_bg_dropdown_popup_single_normal_light.9.png" description="下拉弹窗列表_单独_常态" />
+        <path src="res\drawable-xhdpi\list_item_bg_dropdown_popup_single_normal_light.9.png" description="下拉弹窗列表_单独_常态" />
+        <path src="res\drawable-xxhdpi\list_item_bg_dropdown_popup_single_normal_light.9.png" description="下拉弹窗列表_单独_常态" />
+        <path src="res\drawable-sw600dp-xhdpi\list_item_bg_dropdown_popup_single_pressed_light.9.png" description="下拉弹窗列表_单独_按下" />
+        <path src="res\drawable-xhdpi\list_item_bg_dropdown_popup_single_pressed_light.9.png" description="下拉弹窗列表_单独_按下" />
+        <path src="res\drawable-xxhdpi\list_item_bg_dropdown_popup_single_pressed_light.9.png" description="下拉弹窗列表_单独_按下" />
+    </resource>
+    <resource description="dropdown_listview_bg_light.9" x="0" y="340" width="1080" height="288" uuid="e22c29f4-70fa-49cb-a2a6-b6ea0ef937cc">
+        <path src="res\drawable\dropdown_listview_bg_light.9.png" description="下拉弹窗列表_背景" />
+        <path src="res\drawable-sw600dp-xhdpi\dropdown_listview_bg_light.9.png" description="下拉弹窗列表_背景" />
+        <path src="res\drawable-xhdpi\dropdown_listview_bg_light.9.png" description="下拉弹窗列表_背景" />
+        <path src="res\drawable-xxhdpi\dropdown_listview_bg_light.9.png" description="下拉弹窗列表_背景" />
+    </resource>
+</screenshot>

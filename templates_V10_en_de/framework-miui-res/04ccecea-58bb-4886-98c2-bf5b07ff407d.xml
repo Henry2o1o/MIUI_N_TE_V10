@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1 编辑模式" version="4.11.19" annotation="" tag="全局控件">
+
+    <resource description="取消按钮" x="39" y="95" width="93" height="110" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\action_mode_title_button_cancel_d_light.png" description="编辑模式取消按钮——×" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_cancel_n_light.png" description="编辑模式取消按钮——×" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_cancel_p_light.png" description="编辑模式取消按钮——×" />
+    </resource>
+
+    <resource description="contact_editor_photo_bg.9" x="942" y="95" width="93" height="110" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\action_mode_title_button_deselect_all_d_light.png" description="编辑模式右上角气泡菜单小按钮" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_deselect_all_n_light.png" description="编辑模式右上角气泡菜单小按钮" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_deselect_all_p_light.png" description="编辑模式右上角气泡菜单小按钮" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_select_all_d_light.png" description="编辑模式右上角气泡菜单小按钮" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_select_all_n_light.png" description="编辑模式右上角气泡菜单小按钮" />
+        <path src="res\drawable-xxhdpi\action_mode_title_button_select_all_p_light.png" description="编辑模式右上角气泡菜单小按钮" />
+    </resource>
+
+    <resource description="选择按钮" x="991" y="398" width="60" height="543" uuid="2cf81afa-6a1f-4208-b466-3f5e8690bccc">
+        <path src="res\drawable-xxhdpi\btn_checkbox_off_disabled_light.png" description="弹窗选择按钮_未选_不可按状态" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_off_normal_light.png" description="弹窗选择按钮_未选_常态" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_on_disabled_light.png" description="弹窗选择按钮_已选_不可按状态" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_on_normal_light.png" description="弹窗选择按钮_已选_常态" />
+
+        <path src="res\drawable-xxhdpi\btn_checkbox_off_disabled_light.png" description="多选按钮_未选_不可按状态(深色背景)" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_off_normal_light.png" description="多选按钮_未选_常态(深色背景)" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_on_disabled_light.png" description="多选按钮_已选_不可按状态(深色背景)" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_on_normal_light.png" description="多选按钮_已选_常态(深色背景)" />
+
+        <path src="res\drawable-xxhdpi\btn_checkbox_off_disabled_dark.png" description="多选按钮_未选_不可按状态(浅色背景)" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_off_normal_dark.png" description="多选按钮_未选_常态(浅色背景)" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_on_disabled_dark.png" description="多选按钮_已选_不可按状态(浅色背景)" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_on_normal_dark.png" description="多选按钮_已选_常态(浅色背景)" />
+    </resource>
+
+    <resource description="action_mode_list_menu_bg_light.9" x="0" y="1326" width="1080" height="634" uuid="4131a2eb-c9ce-4591-b825-ad864933e03a">
+       <path src="res\drawable-xxhdpi\action_mode_list_menu_bg_light.9.png" description="下弹窗背景" />
+    </resource>
+
+    <resource description="action_mode_list_menu_bg_light.9" x="0" y="1517" width="1080" height="138" uuid="4131a2eb-c9ce-4591-b825-ad864933e03a">
+        <path src="res\drawable-xxhdpi\list_menu_item_bg_normal_light.9.png" description="弹窗列表 常态" />
+        <path src="res\drawable-xxhdpi\list_menu_item_bg_pressed_light.9.png" description="弹窗列表 按下态" />
+        <path src="res\drawable-xxhdpi\list_menu_item_bg_selected_light.9.png" description="弹窗列表 选中态" />
+    </resource>
+    
+    <resource description="action_mode_split_bg_expanded_light.9" x="0" y="1959" width="1080" height="202" uuid="2fca2ba6-dcdd-4cc2-85f0-b0b633e3b1ab">
+        <path src="res\drawable-xxhdpi\action_mode_split_bg_expanded_light.9.png" description="弹起" />
+        <path src="res\drawable-xxhdpi\action_mode_split_bg_light.9.png" description="未弹起" />
+    </resource>
+    <resource description="action_mode_list_menu_bg_light.9" x="212" y="1993" width="661" height="127" uuid="4131a2eb-c9ce-4591-b825-ad864933e03a">
+       <path src="res\drawable-xxhdpi\action_button_add_secret_disable_light.png" description="action_button_小豆豆" />
+       <path src="res\drawable-xxhdpi\action_button_add_secret_normal_light.png" description="action_button_小豆豆" />
+       <path src="res\drawable-xxhdpi\action_button_add_secret_pressed_light.png" description="action_button_小豆豆" />
+       <path src="res\drawable-xxhdpi\action_mode_button_more_disable_light.png" description="action_mode_小豆豆" />
+       <path src="res\drawable-xxhdpi\action_mode_button_more_normal_light.png" description="action_mode_小豆豆" />
+       <path src="res\drawable-xxhdpi\action_mode_button_more_pressed_light.png" description="action_mode_小豆豆" />
+    </resource>
+</screenshot>

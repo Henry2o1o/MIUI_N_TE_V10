@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.2 联系人详情" version="4.8.5" annotation="" tag="联系人">
+	<resource description="contact_detail_title_home_icon_p" x="2" y="70" width="120" height="120" uuid="c0f6cf71-7627-410f-9f45-e63c193a723d">
+		<path src="res\drawable-xxhdpi\contact_detail_title_home_icon_n.png" description="联系人返回按钮 常态" />
+		<path src="res\drawable-xxhdpi\contact_detail_title_home_icon_p.png" description="联系人返回按钮 二态" />
+	</resource>
+	<resource description="contact_detail_title_more_icon_n.9" x="940" y="70" width="120" height="120" uuid="93788ddb-250b-437d-a709-b717c7aabfeb">
+		<path src="res\drawable-xxhdpi\contact_detail_title_more_icon_n.png" description="联系人设置按钮 常态" />
+		<path src="res\drawable-xxhdpi\contact_detail_title_more_icon_p.png" description="联系人设置按钮 二态" />
+	</resource>
+
+	<resource description="默认大头像" x="0" y="0" width="1080" height="1080" uuid="1b163419-7e55-48b8-b3c3-d3e5b51d306a">
+		<path src="res\drawable-xxhdpi\contact_detail_default_photo.9.png" description="默认大头像" />
+	</resource>
+
+	<resource description="contact_detail_circle_photo" x="108" y="868" width="133" height="133" uuid="c0f6cf71-7627-410f-9f45-e63c193a723d1">
+		<path src="res\drawable-xhdpi\contact_detail_circle_photo_n.png" description="联系人名片默认头像" />
+		<path src="res\drawable-xxhdpi\contact_detail_circle_photo_n.png" description="联系人名片默认头像" />
+	</resource>
+
+	<resource description="contact_detail_action_divider.9" x="345" y="1123" width="27" height="93" uuid="c0f6cf71-7627-410f-9f45-e63c193a723d1">
+		<path src="res\drawable-xhdpi\contact_detail_action_divider.9.png" description="联系人详情竖线" />
+		<path src="res\drawable-xxhdpi\contact_detail_action_divider.9.png" description="联系人详情竖线" />
+	</resource>
+
+	<resource description="联系人详情分享、通话记录等小图标" x="125" y="1100" width="105" height="123" uuid="3049f598-f84a-4c47-bf80-1243ffc794fd">
+		<path src="res\drawable-xxhdpi\contact_detail_menu_send_item_disable.png" description=""/>
+		<path src="res\drawable-xxhdpi\contact_detail_menu_send_item_n.png" description=""/>
+		<path src="res\drawable-xxhdpi\contact_detail_menu_send_item_p.png" description=""/>
+		<path src="res\drawable-xxhdpi\contact_detail_menu_unfavourite_item_disable.png" description=""/>
+		<path src="res\drawable-xxhdpi\contact_detail_menu_unfavourite_item_n.png" description=""/>
+		<path src="res\drawable-xxhdpi\contact_detail_menu_unfavourite_item_p.png" description=""/>
+		<path src="res\drawable-xxhdpi\contact_detail_menu_favorite_item.png" description=""/>
+		<path src="res\drawable-xxhdpi\contact_detail_menu_calllog_item_disable.png" description=""/>
+		<path src="res\drawable-xxhdpi\contact_detail_menu_calllog_item_n.png" description=""/>
+		<path src="res\drawable-xxhdpi\contact_detail_menu_calllog_item_p.png" description=""/>
+		<path src="res\drawable-xxhdpi\contact_detail_menu_mark_item_disable.png" description=""/>
+		<path src="res\drawable-xxhdpi\contact_detail_menu_mark_item_n.png" description=""/>
+		<path src="res\drawable-xxhdpi\contact_detail_menu_mark_item_p.png" description=""/>
+		<path src="res\drawable-xxhdpi\contact_detail_menu_add_black_item_disable.png" description=""/>
+		<path src="res\drawable-xxhdpi\contact_detail_menu_add_black_item_n.png" description=""/>
+		<path src="res\drawable-xxhdpi\contact_detail_menu_add_black_item_p.png" description=""/>
+
+		<path src="res\drawable-xxhdpi\contact_detail_menu_add_contact_item_disable.png" description=""/>
+		<path src="res\drawable-xxhdpi\contact_detail_menu_add_contact_item_n.png" description=""/>
+		<path src="res\drawable-xxhdpi\contact_detail_menu_add_contact_item_p.png" description=""/>
+
+		<path src="res\drawable-xxhdpi\contact_detail_menu_new_contact_item_disable.png" description=""/>
+		<path src="res\drawable-xxhdpi\contact_detail_menu_new_contact_item_n.png" description=""/>
+		<path src="res\drawable-xxhdpi\contact_detail_menu_new_contact_item_p.png" description=""/>
+		
+	</resource>
+
+	<resource description="详情页面list背景" x="0" y="1090" width="1080" height="160" uuid="51112146-4082-4bc0-92f0-30c4455936ed">
+		<path src="res\drawable-xxhdpi\contact_detail_list_item_action_bg.9.png" description="详情页面list 头部" />
+		<path src="res\drawable-xxhdpi\contact_detail_list_item_action_bg_single.9.png" description="详情页面list 头部无号码的联系人" />
+	</resource>
+
+	<resource description="联系人详情列表背景" x="0" y="1242" width="1080" height="170" uuid="51112146-4082-4bc0-92f0-30c4455936ed">
+		<path src="res\drawable-xxhdpi\contact_detail_list_item_first_bg_n.9.png" description="详情页面list上常态" />
+		<path src="res\drawable-xxhdpi\contact_detail_list_item_first_bg_p.9.png" description="详情页面list上二态" />
+
+
+		<path src="res\drawable-xxhdpi\contact_detail_list_item_middle_bg_n.9.png" description="详情页面list中常态" />
+		<path src="res\drawable-xxhdpi\contact_detail_list_item_middle_bg_p.9.png" description="详情页面list中二态" />
+
+		<path src="res\drawable-xxhdpi\contact_detail_list_item_last_bg_n.9.png" description="详情页面list下常态" />
+		<path src="res\drawable-xxhdpi\contact_detail_list_item_last_bg_p.9.png" description="详情页面list下二态" />
+
+		<path src="res\drawable-xxhdpi\contact_detail_list_item_single_bg_n.9.png" description="详情页面list单独常态" />
+		<path src="res\drawable-xxhdpi\contact_detail_list_item_single_bg_p.9.png" description="详情页面list单独二态" />
+	</resource>
+
+
+	<resource description="ic_send_sms_p" x="930" y="1280" width="88" height="93" uuid="00cdfb7e-05d3-4a8e-b1e4-566d21f06527">
+		<path src="res\drawable-xxhdpi\ic_send_mms_by_mx_n.png" description="网络短信 常态" />
+		<path src="res\drawable-xxhdpi\ic_send_mms_by_mx_p.png" description="网络短信 二态" />
+		<path src="res\drawable-xxhdpi\ic_send_sms_n.png" description="短信 常态" />
+		<path src="res\drawable-xxhdpi\ic_send_sms_p.png" description="短信 二态" />
+	</resource>
+
+
+
+
+	<resource description="contact_detail_bg.9" x="869" y="1934" width="172" height="197" uuid="22abcfe0-a1a0-47c1-8529-6104b6591f4c">
+		<path src="res\drawable-xxhdpi\detail_fab_bg.png" description="按钮背景" />
+		<path src="res\drawable-xxhdpi\tab_fab_bg.png" description="按钮背景" />
+	</resource>
+
+	<resource description="action_button_back_normal_light" x="912" y="1994" width="86" height="86" uuid="1b163419-7e55-48b8-b3c3-d3e5b51d306a">
+		<path src="res\drawable-xxhdpi\action_button_back_normal_light.png" description="" />
+		<path src="res\drawable-xxhdpi\action_button_back_pressed_light.png" description="" />
+		<path src="res\drawable-xxhdpi\action_button_call_normal_light.png" description="" />
+		<path src="res\drawable-xxhdpi\action_button_call_press_light.png" description="" />
+		<path src="res\drawable-xxhdpi\action_button_done_normal_light.png" description="" />
+		<path src="res\drawable-xxhdpi\action_button_done_pressed_light.png" description="" />
+
+		<path src="res\drawable-xxhdpi\action_button_mark_normal_light.png" description="" />
+		<path src="res\drawable-xxhdpi\action_button_mark_pressed_light.png" description="" />
+
+		<path src="res\drawable-xxhdpi\action_button_merge_normal_light.png" description="" />
+		<path src="res\drawable-xxhdpi\action_button_merge_pressed_light.png" description="" />
+
+		<path src="res\drawable-xxhdpi\action_button_new_top_normal_light.png" description="" />
+		<path src="res\drawable-xxhdpi\action_button_new_top_pressed_light.png" description="" />
+
+		<path src="res\drawable-xxhdpi\action_button_open_dialpad_normal_light.png" description="" />
+		<path src="res\drawable-xxhdpi\action_button_open_dialpad_pressed_light.png" description="" />
+
+		<path src="res\drawable-xxhdpi\action_button_ringtone_normal_light.png" description="" />
+		<path src="res\drawable-xxhdpi\action_button_ringtone_pressed_light.png" description="" />
+
+		<path src="res\drawable-xxhdpi\action_button_sim_import_disable_light.png" description="" />
+		<path src="res\drawable-xxhdpi\action_button_sim_import_normal_light.png" description="" />
+		<path src="res\drawable-xxhdpi\action_button_sim_import_pressed_light.png" description="" />
+
+		<path src="res\drawable-xxhdpi\action_button_sms_normal_light.png" description="" />
+		<path src="res\drawable-xxhdpi\action_button_sms_pressed_light.png" description="" />
+	</resource>
+
+	<resource description="contact_detail_bg.9" x="0" y="1080" width="1080" height="1080" uuid="22abcfe0-a1a0-47c1-8529-6104b6591f4c">
+		<path src="res\drawable-xxhdpi\contact_detail_bg.9.png" description="联系人详情页背景V8" />
+	</resource>
+
+	
+</screenshot>

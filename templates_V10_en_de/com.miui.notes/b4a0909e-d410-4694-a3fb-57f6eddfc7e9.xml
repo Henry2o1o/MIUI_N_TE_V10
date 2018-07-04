@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 便签内容界面" version="4.8.5" annotation="" tag="便签界面">
+    <resource description="ic_action_undo_d.9" x="76" y="1825" width="65" height="42" uuid="b4a0909e-d410-4694-a3fb-57f6eddfc7e9">
+        <path src="res\drawable-xhdpi\ic_action_undo_d.9.png" description="撤销按钮不可按" />
+        <path src="res\drawable-xxhdpi\ic_action_undo_d.9.png" description="撤销按钮不可按" />
+
+        <path src="res\drawable-xhdpi\ic_action_undo_n.9.png" description="撤销按钮常态" />
+        <path src="res\drawable-xxhdpi\ic_action_undo_n.9.png" description="撤销按钮常态" />        
+
+        <path src="res\drawable-xhdpi\ic_action_undo_p.9.png" description="撤销按钮二态" />
+        <path src="res\drawable-xxhdpi\ic_action_undo_p.9.png" description="撤销按钮二态" />
+    </resource>
+
+    <resource description="ic_action_redo_d.9" x="292" y="1825" width="65" height="42" uuid="b4a0909e-d410-4694-a3fb-57f6eddfc7e9">
+        <path src="res\drawable-xhdpi\ic_action_redo_d.9.png" description="重做按钮不可按" />
+        <path src="res\drawable-xxhdpi\ic_action_redo_d.9.png" description="重做按钮不可按" />
+
+        <path src="res\drawable-xhdpi\ic_action_redo_n.9.png" description="重做按钮常态" />
+        <path src="res\drawable-xxhdpi\ic_action_redo_n.9.png" description="重做按钮常态" />        
+
+        <path src="res\drawable-xhdpi\ic_action_redo_p.9.png" description="重做按钮二态" />
+        <path src="res\drawable-xxhdpi\ic_action_redo_p.9.png" description="重做按钮二态" />
+    </resource> 
+
+    <resource description="ic_action_photo_d.9" x="511" y="1825" width="65" height="42" uuid="b4a0909e-d410-4694-a3fb-57f6eddfc7e9">
+        <path src="res\drawable-xhdpi\ic_action_photo_d.9.png" description="拍照按钮不可按" />
+        <path src="res\drawable-xxhdpi\ic_action_photo_d.9.png" description="拍照按钮不可按" />
+
+        <path src="res\drawable-xhdpi\ic_action_photo_n.9.png" description="拍照按钮常态" />
+        <path src="res\drawable-xxhdpi\ic_action_photo_n.9.png" description="拍照按钮常态" />        
+
+        <path src="res\drawable-xhdpi\ic_action_photo_p.9.png" description="拍照按钮二态" />
+        <path src="res\drawable-xxhdpi\ic_action_photo_p.9.png" description="拍照按钮二态" />
+    </resource>  
+
+    <resource description="ic_action_gallery_d.9" x="727" y="1825" width="65" height="42" uuid="b4a0909e-d410-4694-a3fb-57f6eddfc7e9">
+        <path src="res\drawable-xhdpi\ic_action_gallery_d.9.png" description="图库按钮不可按" />
+        <path src="res\drawable-xxhdpi\ic_action_gallery_d.9.png" description="图库按钮不可按" />
+
+        <path src="res\drawable-xhdpi\ic_action_gallery_n.9.png" description="图库按钮常态" />
+        <path src="res\drawable-xxhdpi\ic_action_gallery_n.9.png" description="图库按钮常态" />        
+
+        <path src="res\drawable-xhdpi\ic_action_gallery_p.9.png" description="图库按钮二态" />
+        <path src="res\drawable-xxhdpi\ic_action_gallery_p.9.png" description="图库按钮二态" />
+    </resource>  
+
+    <resource description="ic_action_check_d.9" x="946" y="1818" width="52" height="52" uuid="b4a0909e-d410-4694-a3fb-57f6eddfc7e9">
+        <path src="res\drawable-xhdpi\ic_action_check_d.9.png" description="选择按钮不可按" />
+        <path src="res\drawable-xxhdpi\ic_action_check_d.9.png" description="选择按钮不可按" />
+
+        <path src="res\drawable-xhdpi\ic_action_check_n.9.png" description="选择按钮常态" />
+        <path src="res\drawable-xxhdpi\ic_action_check_n.9.png" description="选择按钮常态" />        
+
+        <path src="res\drawable-xhdpi\ic_action_check_p.9.png" description="选择按钮二态" />
+        <path src="res\drawable-xxhdpi\ic_action_check_p.9.png" description="选择按钮二态" />
+    </resource>  
+
+    <resource description="action_bar_navigate_normal_light" x="0" y="101" width="68" height="82" uuid="b4a0909e-d410-4694-a3fb-57f6eddfc7e9">
+        <path src="res\drawable-xhdpi\action_bar_navigate_normal_light.png" description="返回按钮常态" />
+        <path src="res\drawable-xxhdpi\action_bar_navigate_normal_light.png" description="返回按钮常态" />
+ 		
+ 		<path src="res\drawable-xhdpi\action_bar_navigate_pressed_light.png" description="返回按钮二态" />
+        <path src="res\drawable-xxhdpi\action_bar_navigate_pressed_light.png" description="返回按钮二态" />
+    </resource>
+
+     <resource description="ic_header_yellow.9" x="0" y="0" width="1080" height="227" uuid="b4a0909e-d410-4694-a3fb-57f6eddfc7e9">
+        <path src="res\drawable-xhdpi\ic_header_yellow.9.png" description="默认便签标题背景?!" />
+        <path src="res\drawable-xxhdpi\ic_header_yellow.9.png" description="默认便签标题背景?!" />        
+
+        <path src="res\drawable-xhdpi\ic_header_blue.9.png" description="蓝色便签标题背景" />
+        <path src="res\drawable-xxhdpi\ic_header_blue.9.png" description="蓝色便签标题背景" /> 
+        
+        <path src="res\drawable-xhdpi\ic_header_green.9.png" description="绿色便签标题背景" />
+        <path src="res\drawable-xxhdpi\ic_header_green.9.png" description="绿色便签标题背景" /> 
+
+        <path src="res\drawable-xhdpi\ic_header_red.9.png" description="红色色便签标题背景" />
+        <path src="res\drawable-xxhdpi\ic_header_red.9.png" description="红色色便签标题背景" />
+
+        <path src="res\drawable-xhdpi\ic_header_white.9.png" description="黄色便签标题背景?!" />
+        <path src="res\drawable-xxhdpi\ic_header_white.9.png" description="黄色便签标题背景?!" />
+
+        
+    </resource>
+      <resource description="ic_clock_light" x="263" y="153" width="228" height="46" uuid="94dd2837-b686-4780-96d8-e47bebbddcb5">
+    	<path src="res\drawable-xhdpi\ic_clock_light.png" description="闹钟" />
+        <path src="res\drawable-xxhdpi\ic_clock_light.png" description="闹钟" />
+    </resource>
+</screenshot>

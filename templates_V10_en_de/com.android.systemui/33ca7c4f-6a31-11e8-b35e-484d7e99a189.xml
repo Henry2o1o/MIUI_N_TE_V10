@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.3 Gruppen-Chat-Antwortseite" version="4.8.5" tag="Benachrichtigungsleiste">
+    <resource description="notification_list_bg.9.png" x="0" y="310" width="1078" height="1008" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\notification_panel_bg.9.png" description="BG Benachrichtigungsliste (konsistent mit Switch-BG)" />
+    </resource>
+    <resource description="Benachrichtigungsleiste Nachricht Antwort Eingabefeld" x="152" y="960" width="882" height="134" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\notification_action_remote_input_bg.9.png" description="Benachrichtigungsleiste Nachricht Antwort Eingabefeld" />
+    </resource>
+    <resource description="Benachrichtigungsleiste Nachricht Antwort Schaltfläche senden" x="920" y="960" width="115" height="135" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-land-xxhdpi\notification_reply_send.png" description="Benachrichtigungsleiste Nachricht Antwort Schaltfläche senden" />
+    </resource>
+  
+</screenshot>

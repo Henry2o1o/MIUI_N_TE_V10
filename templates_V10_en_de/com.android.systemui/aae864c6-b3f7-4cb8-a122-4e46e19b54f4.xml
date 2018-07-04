@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.1 Aufgabenmanager" version="4.10.15" tag="Aufgabenmanager">
+
+	<resource description="recent_icon_mode.png" x="50" y="110" width="230" height="76" uuid="2c336b7b-82b9-4f61-aa71-6bb4c529aca2">
+        <path src="res\drawable-xxhdpi\ic_recents_dock_btn_n.png" description="分屏模式小图标 常态" />
+		<path src="res\drawable-xxhdpi\ic_recents_dock_btn_p.png" description="分屏模式小图标 二态" />
+    </resource>
+
+    <resource description="recent_icon_mode.png" x="712" y="1070" width="66" height="76" uuid="2c336b7b-82b9-4f61-aa71-6bb4c529aca2">
+        <path src="res\drawable-xxhdpi\ic_task_lock.png" description="小图标" />
+        <path src="res\drawable-xxhdpi\ic_task_multi.png" description="小图标" />
+        <path src="res\drawable-xxhdpi\ic_task_setting.png" description="小图标" />
+        <path src="res\drawable-xxhdpi\ic_task_unlock.png" description="小图标" />
+    </resource>
+
+    <resource description="recent_task_clear_button_normal" x="433" y="1872" width="218" height="218" uuid="eb601b31-ee31-464c-a812-5a0101aaf05e">
+        <path src="res\drawable-land-xxhdpi\notifications_clear_all.png" description="消除按钮×" />
+        <path src="res\drawable-land-xxhdpi\notifications_clear_all_bg.png" description="消除按钮圆形背景" />
+        <path src="res\drawable-xxhdpi\recent_clear_button_outline.png" description="任务清除进度环背景" />
+        <path src="res\drawable-xxhdpi\recent_clear_button_arc.png" description="任务清除进度环" />
+        <path src="res\drawable-xxhdpi\recent_clear_button_tick.png" description="任务清除对勾" />
+        <path src="res\drawable-xxhdpi\recent_clear_button.png" description="任务清除进度条" />
+    </resource>    
+
+    <resource description="recent_task_bg.9" x="0" y="0" width="1080" height="2158" uuid="a584d4e8-9301-4cc6-b6c2-efa08fcd2b40">
+        <path src="res\drawable-xxhdpi\recent_task_bg.9.png" description="任务管理器背景" />
+    </resource>
+</screenshot>

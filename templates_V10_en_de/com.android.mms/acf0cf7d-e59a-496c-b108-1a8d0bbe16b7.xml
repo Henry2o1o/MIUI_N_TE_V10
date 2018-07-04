@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.4 短信群发" version="3.3.1" annotation="" tag="短信">
+    <resource description="mi_message_bubble_out_gp_bg_n.9" x="255" y="371" width="783" height="490" uuid="cc07183e-2977-45b2-ac84-7e19e9b41cd6">
+		<path src="res\drawable-xxhdpi\card_background_in_n.9.png" description="短信名片接受常态" />
+		<path src="res\drawable-xxhdpi\card_background_in_p.9.png" description="短信名片接受二态" />
+		<path src="res\drawable-xxhdpi\card_background_out_n.9.png" description="短信名片发送常态" />
+		<path src="res\drawable-xxhdpi\card_background_out_p.9.png" description="短信名片发送二态" />
+    </resource>
+    
+
+    <resource description="mi_message_bubble_out_gp_bg_n.9" x="170" y="861" width="102" height="119" uuid="cc07183e-2977-45b2-ac84-7e19e9b41cd6">
+        <path src="res\drawable-xxhdpi\pending_bg.png" description="发送中的缓冲圈" />
+        <path src="res\drawable-xxhdpi\pending_fg.png" description="发送中的缓冲圈" />
+    </resource>
+
+
+    <resource description="定时发送的短信背景" x="248" y="1462" width="792" height="235" uuid="cc07183e-2977-45b2-ac84-7e19e9b41cd6">
+        <path src="res\drawable-xxhdpi\message_bubble_out_bg_n.9.png" description="定时发送的短信背景" />
+    </resource>
+</screenshot>

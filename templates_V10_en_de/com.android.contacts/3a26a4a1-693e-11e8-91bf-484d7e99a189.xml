@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.6 Kontaktgruppe" version="4.8.5" annotation="" tag="Kontakt">
+	<resource description="Kleines Symbol der Gruppenliste" x="80" y="350" width="76" height="91" uuid="c0f6cf71-7627-410f-9f45-e63c193a723d">
+        <path src="res\drawable-xxhdpi\frequency_group.png" description="Smart Grouping_Neueste Kontaktzeit" />
+        <path src="res\drawable-xxhdpi\location_group.png" description="Smart grouping_Standort" />
+        <path src="res\drawable-xxhdpi\company_group.png" description="Intelligente Gruppierung_Unternehmen" />
+	</resource>
+	
+	<resource description="Gruppenavatar" x="46" y="820" width="153" height="135" uuid="93788ddb-250b-437d-a709-b717c7aabfeb">
+        <path src="res\drawable-xxhdpi\group_photos_container_bg.png" description="Gruppenavatar" />
+	</resource>
+	<resource description="Kleines Symbol, wenn die Kontaktliste leer ist" x="486" y="1056" width="111" height="174" uuid="93788ddb-250b-437d-a709-b717c7aabfeb">
+		<path src="res\drawable-xxhdpi\list_empty_no_contact.png" description="Kleines Symbol, wenn die Kontaktliste leer ist" />
+		<path src="res\drawable-xxhdpi\list_empty_no_call_log.png" description="Kleines Symbol, wenn die Anrufliste leer ist" />
+	</resource>
+
+	
+</screenshot>

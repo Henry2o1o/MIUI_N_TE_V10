@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="3.1 Schweb.Benachri.Fenster" version="4.10.29" annotation="&lt;/p&gt;Achtung：&#xA;&lt;br\&gt;&lt;br\&gt;Die Schriftfarbe im schwebenden Fenster ist der Schriftfarbe der Benachrichtigungsleistenliste zugeordnet Wenn sich die Hintergrundfarbe der Benachrichtigungsleiste und die Schriftfarbe ändern, muss das Hintergrundbild des schwebenden Fensters ersetzt werden.&lt;/p&gt;&#xA;" tag="Schweb.Fenst.virt.Schlüssel">
+    <resource description="float_notification_bg.9" x="0" y="0" width="1080" height="228" uuid="e0a60830-3785-49c3-9ece-34b7e52d57a1">
+        <path src="res\drawable-xxhdpi\notification_heads_up_bg.9.png" description="Schwebender Fensterhintergrund" />
+    </resource>
+</screenshot>

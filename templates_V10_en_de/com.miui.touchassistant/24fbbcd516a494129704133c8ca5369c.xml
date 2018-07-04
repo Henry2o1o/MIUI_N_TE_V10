@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.1 悬浮球" version="4.8.25" annotation="" tag="悬浮球">
+    <resource description="ic_key_home" x="609" y="511" width="67" height="65" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\ic_drag_tag.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_key_home.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_key_back.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_key_menu.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_payment_code.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_power_long_press.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_scan_to_pay.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_toggle_bluetooth.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_toggle_data.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_toggle_lock.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_toggle_mute.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_toggle_orientation.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_toggle_screenshot.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_toggle_torch.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_toggle_wifi.png" description="" />
+        <path src="res\drawable-xxhdpi\icon_memory_clean.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_alipay.png" description="" />
+        <path src="res\drawable-xxhdpi\ic_wechat.png" description="" />
+        <path src="res\drawable-xxhdpi\slided_away_bg.png" description="" />
+    </resource>
+
+</screenshot>

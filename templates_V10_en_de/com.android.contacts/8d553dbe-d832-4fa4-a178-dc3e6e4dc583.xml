@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="1.4 Kontakt bearbeiten" version="4.8.25" annotation="" tag="Kontakt">
+
+    <resource description="Inhalt Spaltenhintergrund" x="0" y="621" width="1080" height="138" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\edit_text_bg_spinner_first_light.9.png" description="Inhalt Spaltenhintergrund An" />
+        <path src="res\drawable-xxhdpi\edit_text_bg_spinner_middle_light.9.png" description="Inhalt Spaltenhintergrund Mittel" />
+        <path src="res\drawable-xxhdpi\edit_text_bg_spinner_last_light.9.png" description="Inhalt Spaltenhintergrund Unter" />
+        <path src="res\drawable-xxhdpi\edit_text_bg_spinner_single_light.9.png" description="Inhalt Spaltenhintergrund Einzelne Bar" />
+    </resource>
+
+
+
+    <resource description="Schaltfläche abbrechen" x="656" y="130" width="43" height="30" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\editor_dropdown_indicator_down_n.png" description="Kontakt Popup-Taste bearbeiten - ▲" />
+        <path src="res\drawable-xxhdpi\editor_dropdown_indicator_down_p.png" description="Kontakt Popup-Taste bearbeiten - ▲" />
+        <path src="res\drawable-xxhdpi\editor_dropdown_indicator_up_n.png" description="Kontakt Popup-Taste bearbeiten - ▲" />
+        <path src="res\drawable-xxhdpi\editor_dropdown_indicator_up_p.png" description="编Kontakt Popup-Taste bearbeiten - ▲" />
+    </resource>
+    
+
+    <resource description="Neuer Kontakt für mehr Optionen" x="225" y="960" width="60" height="75" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_first_normal_light.9.png" description="Neuer Kontakt für mehr Optionen" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_first_pressed_light.9.png" description="Neuer Kontakt für mehr Optionen" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_last_normal_light.9.png" description="Neuer Kontakt für mehr Optionen" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_last_pressed_light.9.png" description="Neuer Kontakt für mehr Optionen" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_middle_normal_light.9.png" description="Neuer Kontakt für mehr Optionen" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_middle_pressed_light.9.png" description="Neuer Kontakt für mehr Optionen" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_single_normal_light.9.png" description="Neuer Kontakt für mehr Optionen" />
+        <path src="res\drawable-xxhdpi\spinner_bg_edit_single_pressed_light.9.png" description="Neuer Kontakt für mehr Optionen" />
+    </resource>
+    
+    <resource description="spinner_bg_normal_light.9" x="0" y="1400" width="1080" height="147" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\spinner_bg_normal_light.9.png" description="Gruppentaste Normaler Zustand" />
+        <path src="res\drawable-xxhdpi\spinner_bg_pressed_light.9.png" description="Gruppentaste Zwei Staaten" />
+    </resource>
+
+    <resource description="editor_button_bg_n.9" x="0" y="1570" width="1080" height="140" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+        <path src="res\drawable-xxhdpi\editor_button_bg_n.9.png" description="Knöpfe Normaler Zustand" />
+        <path src="res\drawable-xxhdpi\editor_button_bg_p.9.png" description="Knöpfe Zwei Staaten" />
+    </resource>
+    
+</screenshot>

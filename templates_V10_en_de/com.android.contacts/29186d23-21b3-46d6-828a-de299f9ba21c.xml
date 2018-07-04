@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<screenshot description="2.2 Wählmenü" version="4.8.5" annotation="" tag="Wählen">
+	<resource description="dialer_menu" x="244" y="1515" width="77" height="84" uuid="c0f6cf71-7627-410f-9f45-e63c193a723d1">
+		 <path src="res\drawable-xxhdpi\dialer_menu_auto_ip.png" description="IP-Telefon" />
+		 <path src="res\drawable-xxhdpi\dialer_menu_blocklist.png" description="Belästigung Abhören" />
+		 <path src="res\drawable-xxhdpi\dialer_menu_live_talk.png" description="Telefon Betankungspaket" />
+		 <path src="res\drawable-xxhdpi\dialer_menu_mobiledata.png" description="Ladungsfluss" />
+		 <path src="res\drawable-xxhdpi\dialer_menu_recharge.png" description="Gebühr" />
+		 <path src="res\drawable-xxhdpi\dialer_menu_setting.png" description="Telefoneinstellungen" />
+		 <path src="res\drawable-xxhdpi\dialer_menu_misim.png" description="" />
+		 <path src="res\drawable-xxhdpi\dialer_menu_voip.png" description="" />
+		 <path src="res\drawable-xxhdpi\dialer_menu_volte.png" description="" />
+    </resource>
+</screenshot>
