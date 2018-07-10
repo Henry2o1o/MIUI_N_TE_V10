@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<screenshot description="2.2 System-Popup" version="4.8.6" annotation="" tag="全局控件">
+<screenshot description="2.2 System-Popup" version="4.8.6" annotation="" tag="Globale Kontrolle">
     <resource description="Popup-Fenster mehrspaltiger Selektor" x="26" y="172" width="1033" height="644" uuid="c4e52e29-4e24-436e-b2d0-610901dbcd78">
         <path src="res\drawable-xxhdpi\number_picker_bg_single.9.png" description="Popup-Fenster mehrspaltiger Selektor" />
         <path src="res\drawable-xxhdpi\number_picker_bg_middle.9.png" description="Popup-Fenster mehrspaltiger Selektor" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<screenshot description="1.5 快捷回复和悬浮窗" version="3.3.1" annotation="" tag="短信">
+<screenshot description="1.5 Schnelle Antwort und schwebendes Fenster" version="3.3.1" annotation="" tag="SMS">
    
     <resource description="new_message_popup_title_bg.9" x="0" y="1204" width="1080" height="165" uuid="4f252501-e23d-4531-ab82-07f5b920877c">
         <path src="res\drawable-xxhdpi\new_message_popup_title_bg.9.png" description="快捷标题背景" />

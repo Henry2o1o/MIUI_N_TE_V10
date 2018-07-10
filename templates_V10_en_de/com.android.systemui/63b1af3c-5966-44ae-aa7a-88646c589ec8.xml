@@ -9,23 +9,23 @@
         <path src="res\drawable-land-xxhdpi\notification_panel_bg.9.png" description="Benachrichtigungshintergrund" />
     </resource>
 
-    <resource description="设置小图标" x="950" y="150" width="117" height="96" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+    <resource description="Stellen Sie kleine Symbole ein" x="950" y="150" width="117" height="96" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
         <path src="res\drawable-land-xxhdpi\notch_settings_n.png" description="设置小图标" />
     </resource>
-    <resource description="开关圆角背景" x="14" y="311" width="1052" height="362" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+    <resource description="Wechseln Sie gerundeten Hintergrund" x="14" y="311" width="1052" height="362" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
         <path src="res\drawable-land-xxhdpi\panel_round_corner_bg.9.png" description="开关圆角背景" />
     </resource><!-- 
-    <resource description="流量小图标" x="69" y="579" width="75" height="68" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+    <resource description="Kleines Verkehrszeichen" x="69" y="579" width="75" height="68" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
         <path src="res\drawable-land-xxhdpi\notification_list_bg.9.png" description="流量小图标" />
     </resource> -->
-    <resource description="亮度滑动暗色背景" x="14" y="673" width="1052" height="142" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+    <resource description="Helligkeit gleitet dunklen Hintergrund" x="14" y="673" width="1052" height="142" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
         <path src="res\drawable-land-xxhdpi\brightness_toggle_progress.9.png" description="亮度滑动暗色下层背景" />
     </resource>
 
-    <resource description="最低亮度小图标" x="41" y="702" width="93" height="83" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+    <resource description="Mindesthelligkeit kleines Symbol" x="41" y="702" width="93" height="83" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
         <path src="res\drawable-land-xxhdpi\ic_brightness_low.png" description="最低亮度小图标" />
     </resource>
-    <resource description="最高亮度小图标" x="945" y="702" width="93" height="83" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+    <resource description="Höchste Helligkeit kleines Symbol" x="945" y="702" width="93" height="83" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
         <path src="res\drawable-land-xxhdpi\ic_brightness_high.png" description="最高亮度小图标" />
     </resource>
     <resource description="Schaltfläche zum Abbrechen der Benachrichtigung" x="435" y="1893" width="208" height="208" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<screenshot description="1.4 WIFI、蓝牙面板" version="4.8.5" tag="通知栏">
+<screenshot description="1.4 WIFI, Bluetooth-Panel" version="4.8.5" tag="Benachrichtigungsleiste">
 
-    <resource description="wifi小图标" x="61" y="724" width="78" height="70" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
-        <path src="res\drawable-xxhdpi\ic_qs_wifi_full_0.png" description="wifi小图标" />
-        <path src="res\drawable-xxhdpi\ic_qs_wifi_full_1.png" description="wifi小图标" />
-        <path src="res\drawable-xxhdpi\ic_qs_wifi_full_2.png" description="wifi小图标" />
-        <path src="res\drawable-xxhdpi\ic_qs_wifi_full_3.png" description="wifi小图标" />
-        <path src="res\drawable-xxhdpi\ic_qs_wifi_full_4.png" description="wifi小图标" />
-        <path src="res\drawable-xxhdpi\expand_indicator.png" description="快捷开关展开的小三角" />
+    <resource description="Wifi kleine Ikone" x="61" y="724" width="78" height="70" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-xxhdpi\ic_qs_wifi_full_0.png" description="Wifi kleine Ikone" />
+        <path src="res\drawable-xxhdpi\ic_qs_wifi_full_1.png" description="Wifi kleine Ikone" />
+        <path src="res\drawable-xxhdpi\ic_qs_wifi_full_2.png" description="Wifi kleine Ikone" />
+        <path src="res\drawable-xxhdpi\ic_qs_wifi_full_3.png" description="Wifi kleine Ikone" />
+        <path src="res\drawable-xxhdpi\ic_qs_wifi_full_4.png" description="Wifi kleine Ikone" />
+        <path src="res\drawable-xxhdpi\expand_indicator.png" description="Kurzes Dreieck für schnelle Schaltererweiterung" />
     </resource>
-    <resource description="加密wifi密码锁小图标" x="937" y="724" width="85" height="70" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+    <resource description="Verschlüsselte wifi Passwortsperre kleines Symbol" x="937" y="724" width="85" height="70" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
         <path src="res\drawable-xxhdpi\ic_qs_wifi_lock.png" description="加密wifi密码锁小图标" />
     </resource>
-    <resource description="各类蓝牙小图标（例如耳机、音响等）" x="61" y="1703" width="78" height="96" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+    <resource description="Verschiedene Arten von Bluetooth-Symbolen (wie Kopfhörer, Stereo usw.)" x="61" y="1703" width="78" height="96" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
         <path src="res\drawable-xxhdpi\ic_qs_bluetooth_device_headset.png" description="各类蓝牙小图标（例如耳机、音响等）" />
         <path src="res\drawable-xxhdpi\ic_qs_bluetooth_device_cellphone.png" description="各类蓝牙小图标（例如耳机、音响等）" />
         <path src="res\drawable-xxhdpi\ic_qs_bluetooth_device_imageing.png" description="各类蓝牙小图标（例如耳机、音响等）" />
@@ -20,7 +20,7 @@
         <path src="res\drawable-xxhdpi\ic_qs_bluetooth_device_mist.png" description="各类蓝牙小图标（例如耳机、音响等）" />
     </resource>
 
-    <resource description="通知栏无线网络及蓝牙背景" x="17" y="300" width="1054" height="982" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+    <resource description="Benachrichtigungsleiste Drahtloses Netzwerk und Bluetooth Hintergrund" x="17" y="300" width="1054" height="982" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
         <path src="res\drawable-xxhdpi\qs_detail_background.9.png" description="无线网络及蓝牙等二级背景" />
     </resource>
 
