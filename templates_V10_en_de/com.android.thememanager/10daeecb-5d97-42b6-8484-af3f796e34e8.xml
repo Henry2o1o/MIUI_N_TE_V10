@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<screenshot description="1.1 主题首页" version="4.8.29" annotation="" tag="主题风格">
+<screenshot description="1.1 Thema Homepage" version="4.8.29" annotation="" tag="Designstil">
     <resource description="search_icon_pressed" x="955" y="85" width="120" height="80" uuid="59846527-792a-4801-969a-c1dc35df4f63">
         <path src="res\drawable-xhdpi\search_icon_normal.png" description="" />
         <path src="res\drawable-xxhdpi\search_icon_normal.png" description="" />

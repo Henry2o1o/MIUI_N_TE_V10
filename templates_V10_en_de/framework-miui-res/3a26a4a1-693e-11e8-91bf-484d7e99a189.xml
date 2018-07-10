@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<screenshot description="1.3 下弹窗列表" version="4.8.6" annotation="" tag="全局控件">
+<screenshot description="1.3 Bounce-Fensterliste" version="4.8.6" annotation="" tag="Globale Kontrolle">
     <resource description="list_item_bg_dropdown_popup_first_normal_light.9" x="6" y="350" width="1062" height="118" uuid="bfb51ad5-11c4-46a7-9418-09a1da349d4e">
         <path src="res\drawable-sw600dp-xhdpi\list_item_bg_dropdown_popup_first_normal_light.9.png" description="下拉弹窗列表_上_常态" />
         <path src="res\drawable-xhdpi\list_item_bg_dropdown_popup_first_normal_light.9.png" description="下拉弹窗列表_上_常态" />

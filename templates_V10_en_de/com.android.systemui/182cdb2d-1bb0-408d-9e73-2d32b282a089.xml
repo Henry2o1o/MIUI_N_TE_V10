@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<screenshot description="1.6 开关合集" version="4.8.5" tag="通知栏">
-    <resource description="开关常态" x="102" y="185" width="136" height="136" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
-        <path src="res\drawable-xxhdpi\ic_qs_bg_disabled.png" description="开关背景关闭状态" />
+<screenshot description="1.6 Sammlung wechseln" version="4.8.5" tag="Benachrichtigungsleiste">
+    <resource description="Wechseln Sie normal" x="102" y="185" width="136" height="136" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+        <path src="res\drawable-xxhdpi\ic_qs_bg_disabled.png" description="Schalten Sie den Hintergrund aus" />
     </resource>
 
-    <resource description="开关常态" x="129" y="213" width="80" height="80" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+    <resource description="Wechseln Sie normal" x="129" y="213" width="80" height="80" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
         <path src="res\drawable-xxhdpi\ic_qs_auto_rotate_disable.png" description="开关闭状态" />
         <path src="res\drawable-xxhdpi\ic_qs_battery_saver_off.png" description="开关闭状态" />
         <path src="res\drawable-xxhdpi\ic_qs_bluetooth_off.png" description="开关闭状态" />
@@ -27,11 +27,11 @@
         <path src="res\drawable-xxhdpi\ic_signal_airplane_disable.png" description="开关闭状态" />
     </resource>
     
-    <resource description="开关按下态" x="350" y="185" width="136" height="136" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+    <resource description="Schalten Sie den Status ab" x="350" y="185" width="136" height="136" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
         <path src="res\drawable-xxhdpi\ic_qs_bg_enabled.png" description="开关背景按下态以及开启状态" />
     </resource>
 
-    <resource description="开关常态" x="374" y="213" width="80" height="80" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
+    <resource description="Wechseln Sie normal" x="374" y="213" width="80" height="80" uuid="673b66c4-62de-4dc2-b91b-55c7e7f5fa0d">
         <path src="res\drawable-xxhdpi\ic_qs_auto_rotate_enable.png" description="开关背景开启状态" />
         <path src="res\drawable-xxhdpi\ic_qs_battery_saver_on.png" description="开关背景开启状态" />
         <path src="res\drawable-xxhdpi\ic_qs_bluetooth_on.png" description="开关背景开启状态" />

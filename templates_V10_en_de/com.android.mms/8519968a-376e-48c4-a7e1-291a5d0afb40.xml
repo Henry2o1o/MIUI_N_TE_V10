@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<screenshot description="1.2 短信列表" version="2.12.27" annotation="" tag="短信">
+<screenshot description="1.2 SMS-Liste" version="2.12.27" annotation="" tag="SMS">
     <resource description="action_button_all_read_disable_light.png" x="898" y="1835" width="90" height="90" uuid="68e18645-3e62-4fed-bb51-97dd3a553ec2">
         <path src="res\drawable-xxhdpi\action_button_all_read_disable_light.png" description="短信豆豆" />
         <path src="res\drawable-xxhdpi\action_button_all_read_normal_light.png" description="" />

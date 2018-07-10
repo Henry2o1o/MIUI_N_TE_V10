@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<screenshot description="2.4 全局按钮以及开关等" version="4.9.1" annotation="" tag="全局控件">
+<screenshot description="2.4 Globale Tasten und Schalter usw." version="4.9.1" annotation="" tag="Globale Kontrolle">
 
-    <resource description="系统滑动调节" x="63" y="158" width="991" height="86" uuid="813d390b-2c12-4e87-b15f-75252ed28072">
-        <path src="res\drawable-xxhdpi\seekbar_bg_light.9.png" description="滑动条_背景" />
-        <path src="res\drawable-xxhdpi\seekbar_progress_mask_light.9.png" description="滑动条_遮罩" />
-        <path src="res\drawable-xxhdpi\seekbar_progress_primary_light.9.png" description="滑动条_进度" />
-        <path src="res\drawable-xxhdpi\seekbar_thumb_disabled_light.png" description="进度条滑块_不可按状态" />
-        <path src="res\drawable-xxhdpi\seekbar_thumb_focused_light.png" description="进度条滑块_滑动状态" />
-        <path src="res\drawable-xxhdpi\seekbar_thumb_normal_light.png" description="进度条滑块_常态" />
-        <path src="res\drawable-xxhdpi\seekbar_thumb_pressed_light.png" description="进度条滑块_按下状态" />
+    <resource description="System gleitende Einstellung" x="63" y="158" width="991" height="86" uuid="813d390b-2c12-4e87-b15f-75252ed28072">
+        <path src="res\drawable-xxhdpi\seekbar_bg_light.9.png" description="Slide bar_hintergrund" />
+        <path src="res\drawable-xxhdpi\seekbar_progress_mask_light.9.png" description="Schieben Sie bar_mask" />
+        <path src="res\drawable-xxhdpi\seekbar_progress_primary_light.9.png" description="Gleitleiste _ Fortschritt" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_disabled_light.png" description="Fortschrittsbalkenschieberegler _ nicht nach Status" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_focused_light.png" description="Fortschrittsleiste Slider Schiebezustand" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_normal_light.png" description="Fortschrittsbalken-Schieberegler normal" />
+        <path src="res\drawable-xxhdpi\seekbar_thumb_pressed_light.png" description="Fortschrittsbalken-Schieberegler gedrückter Status" />
     </resource>
 
-    <resource description="系统对选按钮" x="91" y="310" width="932" height="100" uuid="2cf81afa-6a1f-4208-b466-3f5e8690bccc">
-        <path src="res\drawable-xxhdpi\btn_checkbox_off_disabled_light.png" description="弹窗选择按钮_未选_不可按状态" />
-        <path src="res\drawable-xxhdpi\btn_checkbox_off_normal_light.png" description="弹窗选择按钮_未选_常态" />
-        <path src="res\drawable-xxhdpi\btn_checkbox_on_disabled_light.png" description="弹窗选择按钮_已选_不可按状态" />
-        <path src="res\drawable-xxhdpi\btn_checkbox_on_normal_light.png" description="弹窗选择按钮_已选_常态" />
+    <resource description="Systemauswahltaste" x="91" y="310" width="932" height="100" uuid="2cf81afa-6a1f-4208-b466-3f5e8690bccc">
+        <path src="res\drawable-xxhdpi\btn_checkbox_off_disabled_light.png" description="Pop-up-Fenster Auswahlschaltfläche nicht ausgewählt nicht nach Status
+" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_off_normal_light.png" description="Pop-up-Fenster Auswahlschaltfläche nicht ausgewählt normal" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_on_disabled_light.png" description="Popup-Fenster Auswahlschaltfläche ausgewählt nicht nach Status" />
+        <path src="res\drawable-xxhdpi\btn_checkbox_on_normal_light.png" description="Pop-up-Fenster Auswahlschaltfläche ausgewählt normal" />
 
         <path src="res\drawable-xxhdpi\btn_checkbox_off_disabled_light.png" description="多选按钮_未选_不可按状态(深色背景)" />
         <path src="res\drawable-xxhdpi\btn_checkbox_off_normal_light.png" description="多选按钮_未选_常态(深色背景)" />
@@ -28,7 +29,7 @@
         <path src="res\drawable-xxhdpi\btn_checkbox_on_normal_dark.png" description="多选按钮_已选_常态(浅色背景)" />
     </resource>
 
-    <resource description="系统按钮" x="63" y="686" width="964" height="144" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
+    <resource description="Systemtaste" x="63" y="686" width="964" height="144" uuid="093d5cf1-b14f-4070-aeb8-8742bfc0d186">
         <path src="res\drawable-sw600dp-xhdpi\btn_bg_single_normal_light.9.png" description="单独按钮_常态" />
         <path src="res\drawable-xhdpi\btn_bg_single_normal_light.9.png" description="单独按钮_常态" />
         <path src="res\drawable-xxhdpi\btn_bg_single_normal_light.9.png" description="单独按钮_常态" />
@@ -58,7 +59,7 @@
         <path src="res\drawable-xxhdpi\btn_bg_last_pressed_light.9.png" description="右按钮_按下" />
     </resource>
 
-    <resource description="系统泡泡浅色" x="63" y="1009" width="440" height="246" uuid="818a08c2-724b-48e4-86ff-30bf0c40176e">
+    <resource description="System-Blase Licht" x="63" y="1009" width="440" height="246" uuid="818a08c2-724b-48e4-86ff-30bf0c40176e">
         <path src="res\drawable-xxhdpi\explain_bg.9.png" description="系统泡泡浅色" />
     </resource>
     <resource description="ic_contact_group_photo" x="63" y="1288" width="124" height="124" uuid="f04c8b8c-a612-42b2-81f3-c262d3068243">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<screenshot description="1.0 私密短信" version="3.3.1" annotation="" tag="短信">
+<screenshot description="1.0 Private Nachricht" version="3.3.1" annotation="" tag="SMS">
     <resource description="private_lock_icon" x="392" y="592" width="272" height="252" uuid="864ac112-5a4a-498e-94c8-8c3a6106ad2d">
         <path src="res\drawable-xxhdpi\private_lock_icon.png" description="私密短信" />
         <path src="res\drawable-xxhdpi\conversation_empty.png" description="短信列表空标志" />
@@ -17,12 +17,12 @@
         <path src="res\drawable-xxhdpi\ic_mipub_entry.png" description="服务号短信图标" />
     </resource>
 
-    <resource description="双卡标识" x="964" y="960" width="63" height="70" uuid="3c990e1f-c45b-42f4-94b2-2ca2dc3ad296">
+    <resource description="Doppelkarten-Identifikation" x="964" y="960" width="63" height="70" uuid="3c990e1f-c45b-42f4-94b2-2ca2dc3ad296">
         <path src="res\drawable-xxhdpi\ic_conversation_sim1_indicator.png" description="双卡标识" />
         <path src="res\drawable-xxhdpi\ic_conversation_sim2_indicator.png" description="双卡标识" />
     </resource>
     
-	<resource description="新短信小蓝点" x="20" y="1356" width="34" height="40" uuid="3c990e1f-c45b-42f4-94b2-2ca2dc3ad296">
+	<resource description="Neuer kleiner blauer Punkt SMS" x="20" y="1356" width="34" height="40" uuid="3c990e1f-c45b-42f4-94b2-2ca2dc3ad296">
         <path src="res\drawable-xxhdpi\screen_view_seek_point_highlight.png" description="新短信小蓝点" />
     </resource>
     
